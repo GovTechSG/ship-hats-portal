@@ -3,9 +3,9 @@
 
 **Topics**
 - [Prerequisites](#prerequisites)
-- [Log in](#log-in)
+- [Log in via TechPass](#log-in-via-techpass)
+- [Log in with credentials](#log-in-with-credentials)
 - [View dashboard](#view-dashboard)
-- [View user profile](#view-user-profile)
 - [Log out](#log-out)
 
 
@@ -15,24 +15,9 @@
 - Make sure that you have been [invited and onboarded to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/subscribing-to-ship-hats) by the SHIP-HATS team.
 - Make sure that you have set up SEED and TechPass.
 
-## Log in
+## Log in via TechPass
 
-<!-- tabs:start -->
-
-### **Log in**
-
-**To log in to the SHIP-HATS portal**
-
-1. Go to the [SHIP-HATS portal](https://portal.ship.gov.sg/).
-1. Click **LOGIN**.
-1. Enter your **Username**, **Password**, and then click **Login**.
-    - If you are an SA or PA, the **Overview** page appears. For more details, refer to the [View dashboard](#view-dashboard) section.
-    - If you are a regular user, the **Profile** page appears. For more details, refer to the [Users self help > Access user profile](users-self-help) section.
-
-
-### **Log in via TechPass**
-
-**To log in to the SHIP-HATS portal using TechPass**
+### To log in to the SHIP-HATS portal using TechPass
 
 1. Go to the [SHIP-HATS portal](https://portal.ship.gov.sg/).
 1. Click **Login with TechPass**.
@@ -51,7 +36,17 @@ You have successfully linked your TechPass to SHIP-HATS. You can directly log in
 - If you are an SA or PA, the **Overview** page appears. For more details, refer to the [View dashboard](#view-dashboard) section.
 - If you are a regular user, the **Profile** page appears. For more details, refer to the [Users self help > Access user profile](users-self-help) section.
 
-<!-- tabs:end -->
+## Log in with credentials
+
+### To log in to the SHIP-HATS portal
+
+1. Go to the [SHIP-HATS portal](https://portal.ship.gov.sg/).
+1. Click **LOGIN**.
+1. Enter your **Username**, **Password**, and then click **Login**.
+    - If you are an SA or PA, the **Overview** page appears. For more details, refer to the [View dashboard](#view-dashboard) section.
+    - If you are a regular user, the **Profile** page appears. For more details, refer to the [Users self help > Access user profile](users-self-help) section.
+
+
 
 
 ## View dashboard

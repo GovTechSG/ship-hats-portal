@@ -7,7 +7,7 @@ Agencies are required to indicate any systems associated with Digital Government
 
     Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).
 1. From the side menu, click **Systems**.
-1. Clear the **This system is not associated with any system** check box. 
+1. Clear the **This subscription is not associated with any system** check box. 
 
     <!--<kbd>![dgp](./images/nosys.png ':size=100%')</kbd>-->
 1. Click **Add system**. 

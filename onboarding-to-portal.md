@@ -1,4 +1,4 @@
-# Onboarding to SHIP-HATS Portal
+# Onboard to SHIP-HATS Portal
 
 The following image and table outlines the steps that you must complete to configure the SHIP-HATS portal. After you have completed these steps, you will need to perform additional steps to configure the tools that you want to use.
 

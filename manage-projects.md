@@ -47,7 +47,6 @@ SA and PAs of a subscription account can view all the projects of the subscripti
 
     Tile view of all the projects in this subscription account appears. If needed, refer to [Switch account](manage-account).
 
-
 1. Click **Manage** to view tools that are currently added to the project.
 
 ## Remove projects

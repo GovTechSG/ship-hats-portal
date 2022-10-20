@@ -24,6 +24,9 @@ Subscription Admins can add Project Admins using the SHIP-HATS portal. When crea
    After a user is successfully added, an email notification will be sent to the requesting SA with copy sent to other SA and the newly added PA.
 
 ## View existing project admins
+
+### To view existing project admins
+
 1. Log in to [SHIP-HATS Portal](http://www.ship.gov.sg).
 1. Click **Users** > **All users**.
 1. Click **Project Role**.  
