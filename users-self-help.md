@@ -60,9 +60,9 @@ If you have forgotten your SHIP-HATS username, you may retrieve it anytime follo
 ### To retrieve SHIP-HATS username
 
 1. Disconnect from your **OpenVPN Connect** client.
-2. Go to [SHIP-HATS portal](https://portal.ship.gov.sg/).
+2. Go to [SHIP-HATS portal](https://www.ship.gov.sg/).
 
-3. Click the [self-help](https://portal.ship.gov.sg/selfhelp) link. You will be directed to the **Self-help Requests** page.
+3. Click the [self-help](https://www.ship.gov.sg/selfhelp) link. You will be directed to the **Self-help Requests** page.
 
 4. Click **Retrieve Username**.
 5. Enter **Email Address** used for registering with SHIP-HATS.
@@ -74,9 +74,9 @@ You can reset your 2FA for SHIP-HATS anytime by following the below steps.
 ### To reset 2FA for SHIP-HATS
 
 1. Disconnect from your **OpenVPN Connect** client.
-2. Go to [SHIP-HATS portal](https://portal.ship.gov.sg/).
+2. Go to [SHIP-HATS portal](https://www.ship.gov.sg/).
 
-3. Click the [self-help](https://portal.ship.gov.sg/selfhelp) link. You will be directed to the **Self-help Requests** page.
+3. Click the [self-help](https://www.ship.gov.sg/selfhelp) link. You will be directed to the **Self-help Requests** page.
 
 4. Click **Reset 2FA**.
 5. Enter your **Username** used for registering with SHIP-HATS.
@@ -107,8 +107,8 @@ If you have forgotten your SHIP-HATS password, you may reset it anytime followin
 ### To reset SHIP-HATS password
 
 1. Disconnect from your **OpenVPN Connect** client.
-1. Go to [SHIP-HATS portal](https://portal.ship.gov.sg/).
-1. Click the [self-help](https://portal.ship.gov.sg/selfhelp) link. You will be directed to the **Self-help Requests** page.
+1. Go to [SHIP-HATS portal](https://www.ship.gov.sg/).
+1. Click the [self-help](https://www.ship.gov.sg/selfhelp) link. You will be directed to the **Self-help Requests** page.
 1. Click **Reset Password**.
 1. Enter your **Username** or **Email Address** used for registering with SHIP-HATS.
 1. Select the checkbox to confirm that you are not a robot, and then click **Submit**.
