@@ -28,7 +28,7 @@ You can retrieve token for the following project tools:
 
     > **Note:** If you want to retrieve the token for FOD or Nexus IQ, next to the **CI Token** field, click the eye icon, and then click the copy icon. 
 
-1. In the **Manage Tool** window that appears, from the dropdown, select **Token & Key for bamboo pipeline**. 
+1. In the **Manage Tool** window that appears, from the dropdown, select **Token & Key for pipeline**. 
 1. If requested, select the app name/key.
     The token appears under the **Token/Decoded Token ID** field. You can also view expiry date below the token.
 1. Click the **Copy** button next to the token to copy the token.

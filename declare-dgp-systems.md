@@ -13,7 +13,6 @@ Agencies are required to indicate any systems associated with Digital Government
 1. Click **Add system**. 
 
     The **Add System** window appears.
-
     
 1. In the **System Name** drop-down field, select your system. 
 

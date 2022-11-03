@@ -23,7 +23,7 @@ SA or PA can add the required project tools as explained below. You can add tool
     |---|---|
     |Confluence|<ol><li>Click **Add**.</li><ol>|
     |Fortify on Demand| <ol><li> Provide value in the **Application Name** and **Release name** fields.</li><ol>**Release name** is an optional field.|    
-    |GitLab|Make sure that at least 1 Project Admin has a GitLab account and is added to the TechPass group.<ol><li>In the **GitLab Group Name**, enter the group name.</li><li>From the **System** drop-down, select your system.</li> <ol> |
+    |GitLab|Make sure that at least 1 Project Admin has a GitLab account and is added to the TechPass group.<ol><li>In the **GitLab Group Name**, enter the group name.</li><li>From the **System** drop-down, select your system. <br>If you cannot find the system in the drop-down list, follow the steps to [Declare a DGP System](declare-dgp-systems).</li> <ol> |
     |Jira|<ol><li>Click **Add**.</li><ol>|
     |Nexus IQ|<ol><li>Click **Add**.</li><li> Enter values in the **Application Name** and **Application ID** fields.</li><ol>|
     |Nexus Repo|<ol><li>Click **Add**.</li><li>Submit a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11/) to add this tool.</li><ol>|
@@ -53,7 +53,6 @@ Subscription Admin (SA) and Project Admin (PA) can customise the project keys wh
 1. In the **Project Key** field, enter the required project key. A project key can include 2-10 characters, consisting of uppercase letters A-Z and numbers from 0-9. First character must be an alphabet. 
 1. Click **Add**.  
     The project tool with customised project key is added. 
-
 
 ## Remove project tools
 
