@@ -21,10 +21,10 @@ SA or PA can add the required project tools as explained below. You can add tool
 
     |Available Tools|Steps|
     |---|---|
-    |Confluence|<ol><li>Click **Add**.</li><ol>|
+    |Confluence|<ol><li>Click **Add**.</li><li>Provide **Project Name**.</li><ol>|
     |Fortify on Demand| <ol><li> Provide value in the **Application Name** and **Release name** fields.<br>**Release name** is an optional field.</li></ol>|    
     |GitLab|Make sure that at least 1 Project Admin has a GitLab account and is added to the TechPass group.<ol><li>In the **GitLab Group Name**, enter the group name.</li><li>From the **System** drop-down, select your system. <br>If you cannot find your system in the drop-down list, follow the steps to [Declare a DGP System](declare-dgp-systems).</li> <ol> |
-    |Jira|<ol><li>Click **Add**.</li><ol>|
+    |Jira|<ol><li>Click **Add**.</li><li>Provide **Project Name**.</li><ol>|
     |Nexus IQ|<ol><li>Click **Add**.</li><li> Enter values in the **Application Name** and **Application ID** fields.</li><ol>|
     |Nexus Repo|<ol><li>Click **Add**.</li><li>Submit a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11/) to add this tool.</li><ol>|
     |pCloudy|<ol><li>Click **Add**.</li><ol>|
@@ -39,6 +39,7 @@ SA or PA can add the required project tools as explained below. You can add tool
 
 ## Add project tool with customised project key
 Subscription Admin (SA) and Project Admin (PA) can customise the project keys when adding app tools on SHIP-HATS. This feature is currently available for following tools:
+
 - Jira 
 - Confluence
 
@@ -57,6 +58,7 @@ Subscription Admin (SA) and Project Admin (PA) can customise the project keys wh
 ## Remove project tools
 
 As a Subscription Admin or a Project Admin, you can **remove a tool or an app** when it is not required. You can remove the following tools: 
+
 - Confluence
 - Fortify on Demand
 - GitLab

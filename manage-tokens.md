@@ -57,6 +57,8 @@ You can renew token for the following tools:
 1. Click **Renew Token**.
 1. Refresh the page to get the new token.
 
+
+<!--
 # Manage releases
 
 **Topics**
@@ -98,3 +100,4 @@ This feature is applicable only for FOD.
 1. Type *REMOVE* to confirm, and click *Proceed**.
   The release version is deleted from here as well as from the Fortify **Releases** list.
 >**Note**: You can reuse the name of the deleted version only after 72 hours.
+-->
