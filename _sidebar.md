@@ -13,12 +13,13 @@
   - [Users self help](users-self-help)  
 **Projects**
   - [Manage projects](manage-projects)
-  - [Manage admins](manage-admins) 
+  - [Manage admins](manage-admins)
 **Project Tools & Applications**
   - [Manage tools](manage-tools)
   - [Manage applications](manage-applications)
   - [Manage user groups & users](manage-user-groups-and-users)
   - [Manage tokens](manage-tokens)
+  - [Manage releases](manage-releases)
 **Accounts**  
   - [Manage accounts](manage-account)  
 **DGP Systems**
@@ -30,5 +31,5 @@
 **Additional Resources**
   - [Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/)
   - [Migration](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/)
-  - [Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/) 
-  - [Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/tools-overview) 
+  - [Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/)
+  - [Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/tools-overview)
