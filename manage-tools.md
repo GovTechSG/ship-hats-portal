@@ -22,7 +22,7 @@ SA or PA can add the required project tools as explained below. You can add tool
     |Available Tools|Steps|
     |---|---|
     |Confluence|<ol><li>Click **Add**.</li><ol>|
-    |Fortify on Demand| <ol><li> Provide value in the **Application Name** and **Release name** fields.</li><ol>**Release name** is an optional field.|    
+    |Fortify on Demand| <ol><li> Provide value in the **Application Name** and **Release name** fields.<br>**Release name** is an optional field.</li></ol>|    
     |GitLab|Make sure that at least 1 Project Admin has a GitLab account and is added to the TechPass group.<ol><li>In the **GitLab Group Name**, enter the group name.</li><li>From the **System** drop-down, select your system. <br>If you cannot find your system in the drop-down list, follow the steps to [Declare a DGP System](declare-dgp-systems).</li> <ol> |
     |Jira|<ol><li>Click **Add**.</li><ol>|
     |Nexus IQ|<ol><li>Click **Add**.</li><li> Enter values in the **Application Name** and **Application ID** fields.</li><ol>|
