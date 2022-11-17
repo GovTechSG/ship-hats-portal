@@ -34,15 +34,15 @@ You can manage user groups and permissions/roles for the following tools:
 
 1. From the **Select function** dropdown list, select **Manage/add user group**. 
 
-    - **Confluence:** Provide value in the **User Group** field, and then select the required permissions. To know more about the permissions, refer to the Confluence documentation.
-    - **Jira:** Provide value in the **User Group** field, and then select the required roles. To know more about the roles, refer to the Jira documentation.
+    - **Confluence:** Provide value in the **User Group** field, and then select the required permissions. 
+    - **Jira:** Provide value in the **User Group** field, and then select the required roles. 
     - **Fortify on Demand:** Select **Manage user access** or **Manage user role** as required.  
         - If you want to **Manage user access**, select values in the **User(s)** field.  
 
-        - If you want to **Manage user role**, select values in the **User** and **Role** fields. You can click **Role glossary** to learn more about roles.  
-    - **Nexus IQ:** Provide value in the **User Group** field, and then select the required roles. To know more about the roles, click the **Roles** dropdown list.
+        - If you want to **Manage user role**, select values in the **User** and **Role** fields.   
+    - **Nexus IQ:** Provide value in the **User Group** field, and then select the required roles. 
     
-    - **SonarQube:** Provide values in the **App Name** and **User Group** fields, and then select the required permissions. The **Browse** permission is selected by default along with any other permission. To know more about the permissions, click the **Permissions** dropdown list.
+    - **SonarQube:** Provide values in the **App Name** and **User Group** fields, and then select the required permissions. The **Browse** permission is selected by default along with any other permission. 
     
 1. Click **Update**.
     The permissions or roles are updated in the portal as well as respective tools. Any permissions assigned via portal will override the previously assigned permissions in NexusIQ at the app level.
