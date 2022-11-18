@@ -11,7 +11,6 @@
 
 By default, when you add a project tool, an application is added. However, you can add additional applications to the following tools:
 
-- Confluence
 - Fortify on Demand
 - Jira
 - Nexus IQ
@@ -37,7 +36,6 @@ By default, when you add a project tool, an application is added. However, you c
 
 You can remove app from the following project tools:
 
-- Confluence
 - Fortify on Demand
 - Jira
 - Nexus IQ
