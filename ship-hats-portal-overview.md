@@ -8,6 +8,7 @@ SHIP-HATS portal provides an automated portal available for agencies to organize
 - [Managing Users](manage-users)  
 - [Managing Projects](manage-projects)
 - [Managing Accounts](manage-account)
-- [Declare DGP systems](declare-dgp-systems)
+
+<!--- [Declare DGP systems](declare-dgp-systems)-->
 
 Before you can get started with the SHIP-HATS Portal, you must familiarize yourself with [User roles and permissions](user-roles-and-permissions).

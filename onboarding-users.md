@@ -1,7 +1,18 @@
 # Onboard Users
 
+To onboard users, you must log in to [the TechBiz portal](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/invite-users). You can complete following activities:
+- Invite users
+- Approve new users
+
+### What's Next
+- [Create Project](manage-projects)
+
+### Related Topics
+- [Manage Users](manage-users)
 
 
+
+<!--
 This section describes the following:
 - [Invite users](#invite-users)
 - [Register account](#register-account)
@@ -35,11 +46,11 @@ Subscription Admin (SA) and Project Admin (PA) can invite and add users to the s
 As a user, you will receive an invitation email with a link to onboard to SHIP-HATS portal upon successful approval. 
 
 Access the link via the onboarding email and perform the following steps based on the account that you want to create. 
-
+-->
 <!-- tabs:start -->
 
 
-### **Public officer**
+<!--### **Public officer**
 
 ### To register an account for a public officer
 
@@ -71,12 +82,12 @@ Access the link via the onboarding email and perform the following steps based o
    | **Organisation**| Enter organisation name of the user. 
    | **Department** |Enter department name of the user.
    | **Require SEED Account**| Select this checkbox if the user require a SEED account. This account is required only for users who are actively involved in development work on a non-GSIB device. For more information, refer to the [SEED](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/#/) documentation.  
-   
+-->   
 
 <!-- tabs:end -->
 
 
-## Approve new users
+<!--## Approve new users
 After a user submits the completed SHIP-HATS **Invitation Form**, Subscription Admin (SA) and Project Admin (PA) will be notified by an email to approve the user registration.
 
 ### To approve new user registration
@@ -107,8 +118,5 @@ This user is now approved as SHIP-HATS user under this account.
 
    >**Note:** Irrespective of agencies, individuals approved as SHIP-HATS users can be added to any SHIP-HATS project and will be billed under the account that initially approved them.  
 
-### What's Next
-- [Create Project](manage-projects)
+-->
 
-### Related Topics
-- [Manage Users](manage-users)

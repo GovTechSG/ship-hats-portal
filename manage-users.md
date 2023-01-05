@@ -4,9 +4,7 @@
 
 - [View users](#view-users)
 - [Generate user report](#generate-user-report)
-- [Manage access](#manage-access)
-- [Reactivate users](#reactivate-users)
-- [Remove users](#remove-users) 
+
 
 
 ## View users
@@ -19,16 +17,20 @@ Subscription Admin (SA) and Project Admin (PA) can view all users associated wit
    Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).
 
 1. From the side menu, click **Users > All Users**.  
-   A list of users appears, along with following details:  
+   A list of users appears, along with following details: 
    |Column|Description|
    |---|---|
    **Name**|Indicates the name of the user. <br>If *First Name* and *Last Name* were not provided when creating a new user account, only email address will appear in this column.<br>If a user is a Subscription Admin, it is indicated by the label **Subscr Admin** beside the username.
    **Project Role**|Indicates whether a user is a Project Admin.
-   **Quota consumed**|Indicates whether the user is consuming quota from the current subscription. <ul><li>If user is not consuming quota of the subscription, a tag **free user**, appears beside the name. When you hover over the tag, you can view the billing subscription under which the quota is being consumed.</li></ul>   
-   **CI**| Indicates whether the user is consuming the CI tools quota from the current subscription. 
-   **Sonatype**|Indicates whether the user is consuming Sonatype tools quota from the current subscription.
+   **GitLab**|Indicates whether the user is consuming GitLab tools quota from the current subscription. The quota consumed/quota available is indicated at the top of the screen. For example, *5 / 8 GitLab quota consumed.* 
+   **Jira/Confluence**| Indicates whether the user is consuming the Jira/Confluence tools quota from the current subscription. The quota consumed/quota available is indicated at the top of the screen. For example, *1 / 3 Jira/Confluence quota consumed.*
+   **Sonatype**|Indicates whether the user is consuming Sonatype tools quota from the current subscription. The quota consumed/quota available is indicated at the top of the screen. For example, *1 / 1 Sonatype quota consumed.*
    **Last Login**|Indicates the date and time when the user logged in the last time. The time indicated is based on data captured until the daily scheduled job runs.
+
+   <!--
+   **Quota consumed**|Indicates whether the user is consuming quota from the current subscription. <ul><li>If user is not consuming quota of the subscription, a tag **free user**, appears beside the name. When you hover over the tag, you can view the billing subscription under which the quota is being consumed.</li></ul>   
    **Action**|Enables you to [Manage access](#manage-access) and [Remove User](#remove-users).
+   -->
 
    <!--<kbd>![all-users-new](./images/all-users-new.png ':size=100%')</kbd>-->
 
@@ -38,7 +40,7 @@ Subscription Admin (SA) and Project Admin (PA) can view all users associated wit
       - Project Role
       - CI
       - Sonatype
-      - Quota consumed  
+      - GitLab
       - Last Login
     - **Search:** You can quickly search for a user by typing the username in the search box.
 
@@ -67,6 +69,7 @@ You can generate a report to view all details for the active and removed users.
    **Quota consumed**|Indicates whether the user is consuming quota from the current subscription.  
    **CI Quota Consumed**|Indicates whether the user is consuming CI tools quota from the current subscription. 
    **Sonatype Quota Consumed**|Indicates whether the user is consuming Sonatype tools quota from the current subscription. 
+   **GitLab Quota Consumed**|Indicates whether the user is consuming GitLab quota from the current subscription. 
    **Last Login**|Indicates the date and time when the user logged in the last time.
    **Status**|Indicates whether the user is active or removed.
    **Approved Date**|Indicates the date when the user was approved.
@@ -75,6 +78,8 @@ You can generate a report to view all details for the active and removed users.
    **Removed By**|Indicates the name of the SA or PA who removed the user.
    **Removal Reason**|Indicates the reason for removal of a user as entered by the SA or PA
 
+<!--
+
 ## Manage access
 
 ### To manage access for a user
@@ -82,10 +87,11 @@ You can generate a report to view all details for the active and removed users.
 1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).   
    Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).
 
-1. From the side menu, click **Users > All Users**.
+1. From the side menu, click **Users > All Users**.-->
 
    <!--<kbd>![all-users-new](./images/all-users-new.png ':size=100%')</kbd>-->
 
+<!--
 1. Search for the user whose access you want to manage. 
 1. From the **Action** column, click ![3 dots](./images/3_dot.png) corresponding to the user.  
 1. Select **Manage Access**, and then select the tools that you want to enable for the user. Following options are available: 
@@ -109,12 +115,13 @@ You can generate a report to view all details for the active and removed users.
 
 If SHIP-HATS users are inactive for 60 consecutive days, their status changes from **normal user** to **sleeping user**. If the user continues to be inactive, from day 81 onwards an email notification is sent every day to the user until user becomes active (**normal user**) or until it reaches day 90.  
 
-On day 91, if the user is still inactive on SHIP-HATS, user status changes from **sleeping user** to **suspended user**, indicated by a grey avatar.  
+On day 91, if the user is still inactive on SHIP-HATS, user status changes from **sleeping user** to **suspended user**, indicated by a grey avatar.  -->
 
 <!--<kbd>![profile-legends](./images/profile-legends.png ':size=100%')</kbd>-->
 
 <!--SA and PA can reactivate a suspended user back to their account if required.-->
 
+<!--
 ### To reactivate a user
 
 If you are **a TechPass user**, the SA can raise a service request using the [TechPass Support form](https://form.gov.sg/#!/5f69797d0666cb0011cc59da). It will take 1-3 business days to process the service request.
@@ -124,11 +131,11 @@ If you are **not a TechPass user**, the SA or PA can complete the following step
 1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).  
    Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).  
 1.  From the side menu, click **Users > All Users**.  
-1. Search for the user to be reactivated and from the **Action** column, click ![3_dot](./images/3_dot.png) corresponding to the user.  
+1. Search for the user to be reactivated and from the **Action** column, click ![3_dot](./images/3_dot.png) corresponding to the user.  -->
 
    <!--<kbd>![user_status_2](./images/user_status_2.png ':size=100%')</kbd><br />-->
    
-   > **Tip:** Refer to [Viewing users](#view-users) to know how to search for users  
+<!--   > **Tip:** Refer to [Viewing users](#view-users) to know how to search for users  
 1. Choose **Reactivate User**. User, SAs and the requestor will be notified through an email about the reactivation.  
 
    >**Notes:**
@@ -152,11 +159,18 @@ Make sure that you are in the required account. If needed, refer to [Switch acco
 1. From the side menu, click **Users > All Users**.
 1. Search for the user to be removed and from the **Action** column, click ![3_dot](./images/3_dot.png) corresponding to the user.
    >**Tip:** Refer to [View users](#view-users) to know how to search for users and to sort by **Quota Consumed**.
-
+-->
    <!--<kbd>![remove_user](./images/remove-users-2.png ':size=100%')</kbd>-->
-
+<!--
 1. Choose **Remove User**.
-
+-->
 ### Related Topics
 - [Manage user groups](manage-user-groups)
 - [Manage user groups & users](manage-user-groups-and-users) 
+
+
+<!--
+- [Manage access](#manage-access)
+- [Reactivate users](#reactivate-users)
+- [Remove users](#remove-users) 
+-->

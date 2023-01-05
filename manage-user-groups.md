@@ -45,7 +45,7 @@ As an SA/PA, you can create user groups based on quota specified for your projec
 1. From the side menu, click **Users** > **All User Groups**.  
 
    The **All User Groups** window appears, displaying all the user groups listed under the **Group Name** column.  
-   At the top, you can view the quota consumed and available. For example, 2/12 groups created indicates that you have created 2 out of the 12 group quota that is available based on the number of projects your subscription can create.
+   At the top, you can view the quota consumed/quota available. For example, `2/12 groups created` indicates that you have created 2 out of the 12 group quota that is available based on the number of projects your subscription can create.
    
    <!--In the image below, you can see available quota is 200 and number of groups created is 100.-->  
 

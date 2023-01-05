@@ -4,8 +4,17 @@ The following image and table outlines the steps that you must complete to confi
 
 These tasks may be completed by multiple people in your organization and SHIP-HATS team. However, these tasks must be completed in the specified order. All steps are required unless otherwise noted.
 
+|Step|Task|Owner|
+|---|---|---|
+|1|[Log in to the SHIP-HATS portal](access-ship-hats-portal)|SA|
+|2|[Verify users are added to the account](manage-users)|SA|
+|3|[Create a project](manage-projects)|SA|
+|4|[Add a project admin](manage-admins)|SA|  
+|5|[Add a project tool](manage-tools)|SA or Project Admin (PA)|
+|6|[Add a user or a user group to a project](manage-user-groups-and-users)|SA or PA|
+|7|[Add an application to a project tool](manage-applications)|PA|
 
-
+<!--
 ![Onboarding to Portal](./images/onboarding-ship-hats-portal.png)
 
 |Step|Task|Owner|
@@ -23,7 +32,7 @@ These tasks may be completed by multiple people in your organization and SHIP-HA
 |11|[Add user or a user group to a project](manage-user-groups-and-users)|SA or PA|
 |12|[Add an application to a project tool](manage-applications)|PA|
 |13|[Declare DGP systems](declare-dgp-systems)|Agency<br>This is an optional step.|    
-
+-->
 <!--
 ### What's Next
 - [Configure Project Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/tools-overview).
