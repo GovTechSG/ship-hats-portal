@@ -21,8 +21,10 @@ By default, when you add a project tool, an application is added. However, you c
 
 ### To add an application to a project tool
 
-1. From the side menu, click **Projects** > **All Projects** to view all the projects in this subscription account. If needed, refer to [Switch account](manage-account).
-1. Locate the project to which you want to add an application to a project tool, and then click the project.
+1. From the side menu, click **Projects** to view all the projects in this subscription account.  
+    >**Tip:** If needed, [Switch account](manage-account).
+
+1. Locate the project for which you want to add an application to a project tool, and then click the project.
     > **Note:** Alternately, click three dots for more options, and then click **Manage Project**.
 1. Click the tool to which you want to add an application, and then click **Add another**.  
     The **Add new tool** window appears. 
@@ -47,7 +49,9 @@ You can remove app from the following project tools:
 ### To remove an app
 
 
-1. From the side menu, click **Projects** > **All Projects** to view all the projects in this subscription account. If needed, refer to [Switch account](manage-account).
+1. From the side menu, click **Projects** to view all the projects in this subscription account.  
+    >**Tip:** If needed, [Switch account](manage-account).
+
 1. Locate the project for which you want to remove an application from a project tool, and then click the project.
     > **Note:** Alternately, click three dots for more options, and then click **Manage Project**.
 

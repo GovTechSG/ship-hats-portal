@@ -11,10 +11,8 @@ Subscription Admin (SA) can create new projects in SHIP-HATS and manage them. SA
 
 ### To create a new project
 
-1. From the side menu, click **Projects** > **Create Project**.  
-
-    >**Tip:** Alternatively, if you are viewing **All Projects**, click **Create Project**.  
-
+1. From the side menu, click **Projects**. 
+1. Click **Create Project**.  
 1. Provide information in the following fields:
 
     |Field|Description|
@@ -47,11 +45,14 @@ SA and PAs of a subscription account can view all the projects of the subscripti
 
 ### To view a project in a subscription account
 
-1. From the side menu, click **Projects** > **All Projects**.
+1. From the side menu, click **Projects**.
 
-    Tile view of all the projects in this subscription account appears. If needed, refer to [Switch account](manage-account).
+    > **Tip:** If needed, [Switch account](manage-account).
 
-1. Click **Manage** to view tools that are currently added to the project.
+    Tile view of all the projects in this subscription account appears. 
+    
+
+<!--1. Click **Manage** to view tools that are currently added to the project.-->
 
 ## Remove projects
 
@@ -59,9 +60,13 @@ Subscription Admin can remove a project if no tool has been added to it. If Tool
 
 ### To remove a project
 
-1. From the side menu, click **Projects** > **All Projects** to view all the projects in this subscription account. If needed, refer to [Switch account](manage-account).
-1. Locate the project, and then click three dots for more options, and then click **Delete Project**. 
+1. From the side menu, click **Projects**.
+
+    > **Tip:** If needed, [Switch account](manage-account).
+1. Locate the project that you want to remove, and then click three dots for more options.
+1. Select **Delete Project**.   
     A **Delete project** pop up appears. 
+
 1. If you are sure that you want to delete the project, click **I acknowledge that I have done all the necessary backup for the project**, and then click **Delete**.
 
     The project is deleted.

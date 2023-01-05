@@ -19,9 +19,12 @@ You can retrieve token for the following project tools:
 
 ### To retrieve token
 
-1. From the side menu, click **Projects** > **All Projects** to view all the projects in this subscription account. If needed, refer to [Switch account](manage-account).
+1. From the side menu, click **Projects** to view all the projects in this subscription account.  
+    >**Tip:** If needed, [Switch account](manage-account).
+
 1. Click the required project.
     > **Note:** Alternatively, click three dots for more options, and then click **Manage Project**.
+
 1. Click the tool for which you want to retrieve the token, and then click **Manage**.
     The **Manage Tool** window appears.
 
@@ -44,9 +47,12 @@ You can renew token for the following tools:
 ### To renew an expired token
 
 
-1. From the side menu, click **Projects** > **All Projects** to view all the projects in this subscription account. If needed, refer to [Switch account](manage-account).
+1. From the side menu, click **Projects** to view all the projects in this subscription account.  
+    >**Tip:** If needed, [Switch account](manage-account).
+
 1. Click the required project.
     > **Note:** Alternately, click three dots for more options, and then click **Manage Project**.
+    
 1. Click the tool for which you want to renew the token, and then click **Manage**.
     The **Manage Tool** window appears.
 

@@ -24,7 +24,9 @@ You can manage user groups and permissions/roles for the following tools:
 ### To manage user groups for your project tool or app
 
 
-1. From the side menu, click **Projects** > **All Projects** to view all the projects in this subscription account. If needed, refer to [Switch account](manage-account).
+1. From the side menu, click **Projects** to view all the projects in this subscription account.  
+    >**Tip:** If needed, [Switch account](manage-account).
+
 1. Click the project that you want to update.
     > **Note:** Alternately, click three dots for more options, and then click **Manage Project**.
 1. Click the tool for which you want to manage/add user groups, and then click **Manage**.
@@ -65,9 +67,12 @@ You can manage users for the following tools:
 ### To manage users for your project tool or app
 
 
-1. From the side menu, click **Projects** > **All Projects** to view all the projects in this subscription account. If needed, refer to [Switch account](manage-account).
+1. From the side menu, click **Projects** to view all the projects in this subscription account.  
+    >**Tip:** If needed, [Switch account](manage-account).
+
 1. Click the project that you want to update.
     > **Note:** Alternately, click three dots for more options, and then click **Manage Project**.
+
 1. Click the tool for which you want to manage/add users.
 1. Click **Manage**, and then click **Manage/add users**.
     The **Manage Tool** window appears. 
@@ -94,9 +99,12 @@ As a Subscription Admin or a Project Admin, you can remove permissions and roles
 ### To remove user groups for your project tool or app
 
 
-1. From the side menu, click **Projects** > **All Projects** to view all the projects in this subscription account. If needed, refer to [Switch account](manage-account).
+1. From the side menu, click **Projects** to view all the projects in this subscription account.  
+    >**Tip:** If needed, [Switch account](manage-account).
+
 1. Click the required project.
     > **Note:** Alternately, click three dots for more options, and then click **Manage Project**.
+    
 1. Click the tool for which you want to remove user groups.
 1. Click **Manage**, and then click **Manage/add users**.
     The **Manage Tool** window appears. 

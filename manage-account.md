@@ -11,7 +11,11 @@
 
 
 ## Switch account
-If you are a SA or PA for more than one subscription account in SHIP-HATS, you may need to switch between these accounts to Manage users, Manage Projects, Viewing Plan Details and Viewing Billing Info.
+If you are a SA or PA for more than one subscription account in SHIP-HATS, you may need to switch between these accounts to:
+
+- Manage Projects
+- View Plan Details 
+- View Billing Info
 
 ### To switch account
 
@@ -38,7 +42,7 @@ SA and PA can view the plan details of their subscription account(s) from the da
 
 1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).  
     
-    Ensure you are in the required account. If needed, refer to [Switch account](#switch-account).
+    Ensure you are in the required account. If needed, [Switch account](#switch-account).
 
     <!--<kbd>![plan-details](./images/plan-details.png ':size=100%')</kbd>-->
 
@@ -47,8 +51,8 @@ SA and PA can view the plan details of their subscription account(s) from the da
     > **Note:** Alternatively, from the **Dashboard**, you can click **Plan details**.
 
     The **Plan Details** screen appears, displaying the following plan details:
-    - Billing Account Name
-    - Billing Account Number
+    - Account Name
+    - Account Number
     - Plan subscribed
     - Show add-ons: You can click this option to view the add-ons taken with the subscription.
 
@@ -64,20 +68,22 @@ Alternatively, click **Plan details** from **Overview** as shown below.
 
 ## View billing information
 
-If you are a Subscription Admin, you will be able to view the billing information of their subscription account(s).
+If you are a Subscription Admin, you will be able to view the billing information of your subscription account(s) via the [TechBiz portal](https://portal.techbiz.suite.gov.sg/).
+
+<!--
 
 ### To view the billing information
 
 
 1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).  
     
-    Ensure you are in the required account. If needed, refer to [Switch account](#switch-account).
-
-    <!--<kbd>![plan-details](./images/plan-details.png ':size=100%')</kbd>-->
+    Ensure you are in the required account. If needed, [Switch account](#switch-account).
+    
+    <kbd>![plan-details](./images/plan-details.png ':size=100%')</kbd>
 
 1. Under your name, click the drop-down, and then select **Billing Info**. 
 
-    <!--<kbd>![billing-info-menu](./images/billing-info-menu.png ':size=75%')</kbd>-->
+    <kbd>![billing-info-menu](./images/billing-info-menu.png ':size=75%')</kbd>
 
     You can view information in the following sections: Billing Information, Approver Information, Service Sheet (SS), and Subscription Pricing Calculator.
 
@@ -107,22 +113,22 @@ If you are a Subscription Admin, you will be able to view the billing informatio
 
         ![Subscription Pricing Calculator](./images/subscription-pricing-calculator.png ':size=40%')
 
-    
+-->    
 
 ## Modify billing information
-If you are a Subscription Admin, you will be able to modify the billing information of their subscription account(s).
-
+If you are a Subscription Admin, you will be able to modify the billing information of your subscription account(s) via the [TechBiz portal](https://portal.techbiz.suite.gov.sg/).
+<!--
 ### To modify the billing information
 
 1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).  
     
     Ensure you are in the required account. If needed, refer to [Switch account](#switch-account).
 
-    <!--<kbd>![plan-details](./images/plan-details.png ':size=100%')</kbd>-->
+    <kbd>![plan-details](./images/plan-details.png ':size=100%')</kbd>
 
 1. Under your name, click the drop-down, and then select **Billing Info**. 
 
-    <!--<kbd>![billing-info-menu](./images/billing-info-menu.png ':size=75%')</kbd>-->
+    <kbd>![billing-info-menu](./images/billing-info-menu.png ':size=75%')</kbd>
 
     You can view information in the following sections: Billing Information, Approver Information, Service Sheet (SS), and Subscription Pricing Calculator.
 1. In the **Billing Information** section, click the pencil icon to modify one or more of the following details:
@@ -134,7 +140,7 @@ If you are a Subscription Admin, you will be able to modify the billing informat
     - WBS / Cost Center
     - GL Account: This is applicable for GovTech agencies only.
     - Sub-business Unit: This is applicable for non-GovTech agencies only.
-
+-->
 
 ## Update admin profile
 SA and PA can update their profile from the **[Dashboard](access-ship-hats-portal)** section.

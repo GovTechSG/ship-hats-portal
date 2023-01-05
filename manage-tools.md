@@ -4,6 +4,7 @@
 
 - [Add project tools](#add-project-tools)
 - [Add project tool with customised project key](#add-project-tool-with-customised-project-key)
+- [View project tools](#view-project-tools)
 - [Remove project tools](#remove-project-tools)
 
 
@@ -14,7 +15,9 @@ SA or PA can add the required project tools as explained below. You can add tool
 
 ### To add project tools
 
-1. From the side menu, click **Projects** > **All Projects** to view all the projects in this subscription account. If needed, refer to [Switch account](manage-account).
+1. From the side menu, click **Projects** to view all the projects in this subscription account.  
+    > **Tip:** If needed, [Switch account](manage-account).
+
 1. Locate the project to which you want to add a tool, and then click the project.
     > **Note:** Alternately, click three dots for more options, and then click **Manage Project**.
 1. Locate the tool that you want to add, click **Create**, and follow the specific steps in table for the tool that you want to add.
@@ -43,17 +46,35 @@ Subscription Admin (SA) and Project Admin (PA) can customise the project keys wh
 - Jira 
 - Confluence
 
-### To customise project key 
+### To add a project with customised project key 
 
-1. Go to **Projects** > **All Projects**.
+1. From the side menu, click **Projects** to view all the projects in this subscription account.  
+    > **Tip:** If needed, [Switch account](manage-account).
+
 1. Identify your project, and then click the project.
     > **Note:** Alternately, click three dots for more options, and then click **Manage Project**.
 1. Locate the tool that you want to add, click **Create**.
 1. Click **Add**.   
     The **Add New Project** window appears.
-1. In the **Project Key** field, enter the required project key. A project key can include 2-10 characters, consisting of uppercase letters A-Z and numbers from 0-9. First character must be an alphabet. 
+1. In the **Project Key** field, enter the required project key. A project key can include:
+    - 2-10 characters
+    - Can contain uppercase letters A-Z 
+    - Can contain numbers from 0-9
+    - First character must be an alphabet 
 1. Click **Add**.  
     The project tool with customised project key is added. 
+
+## View project tools
+
+### To view project tools
+
+1. From the side menu, click **Projects** to view all the projects in this subscription account.  
+    > **Tip:** If needed, [Switch account](manage-account).
+
+1. Locate the project for which you want to view the tools, and then click the project.
+    > **Note:** Alternately, click three dots for more options, and then click **Manage Project**.
+
+    You can view the added tools. 
 
 ## Remove project tools
 
@@ -70,7 +91,9 @@ As a Subscription Admin or a Project Admin, you can **remove a tool or an app** 
 ### To remove a project tool
 
 
-1. Go to **Projects** > **All Projects**.
+1. From the side menu, click **Projects** to view all the projects in this subscription account.  
+    > **Tip:** If needed, [Switch account](manage-account).
+
 1. Identify your project, and then click the project.
     > **Note:** Alternately, click three dots for more options, and then click **Manage Project**.
 

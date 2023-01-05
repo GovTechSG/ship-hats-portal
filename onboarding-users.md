@@ -1,8 +1,12 @@
 # Onboard Users
 
-To onboard users, you must log in to [the TechBiz portal](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/invite-users). You can complete following activities:
+To onboard users, you must log in to the [TechBiz portal](https://portal.techbiz.suite.gov.sg/). 
+
+You can complete following activities:
 - Invite users
 - Approve new users
+
+For more information, refer to the [TechBiz documentation](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/invite-users)
 
 ### What's Next
 - [Create Project](manage-projects)

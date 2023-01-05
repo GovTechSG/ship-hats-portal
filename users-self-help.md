@@ -26,15 +26,14 @@
 
         - Your subscription information, such as:
             - Subscription Admin for the subscription
-            - Number of Fortify applications tied to the subscription
-            - Number of SonarQube applications tied to the subscription
-
+            - Number of tools/applications tied to the subscription
         - You can click the applications to view tokens and the expiry date. 
         - You can also download the information as CSV.
+        >**Note:** If you have multiple subscriptions, you will see multiple subscriptions and their details.
 
     - **User Groups**
     
-        View the user groups to which you belong.
+        - View the user groups to which you belong.
 
 
 
@@ -46,41 +45,36 @@
     > **Note:** Alternately, you can follow these steps: 
     > 1. Log in to the [SHIP-HATS](https://portal.ship.gov.sg/) portal.
     > 1. Under your name, click the drop-down, and then select **View profile**. 
-        On the **Profile** page, click the pencil icon.
+    >1. On the **Profile** page, click the pencil icon.
 
 1. Click **edit profile**.
 
 2. Modify the details as needed, and then click **Save**. 
-
-
 
 ## Retrieve username
 If you have forgotten your SHIP-HATS username, you may retrieve it anytime following the below steps.
 
 ### To retrieve SHIP-HATS username
 
-1. Disconnect from your **OpenVPN Connect** client.
-2. Go to [SHIP-HATS portal](https://www.ship.gov.sg/).
+1. Go to [SHIP-HATS portal](https://www.ship.gov.sg/), and click **LOGIN** or click the [self-help](https://www.ship.gov.sg/selfhelp) link.  
 
-3. Click the [self-help](https://www.ship.gov.sg/selfhelp) link. You will be directed to the **Self-help Requests** page.
-
-4. Click **Retrieve Username**.
-5. Enter **Email Address** used for registering with SHIP-HATS.
-6. Select the checkbox to confirm that you are not a robot, and then click **Submit**.
+    You will be directed to the **Self-help Requests** page.
+1. Click **Retrieve Username**.
+1. Enter **Email Address** used for registering with SHIP-HATS.
+1. Select the checkbox to confirm that you are not a robot, and then click **Submit**.
 
 ## Reset 2FA
 You can reset your 2FA for SHIP-HATS anytime by following the below steps.
 
 ### To reset 2FA for SHIP-HATS
 
-1. Disconnect from your **OpenVPN Connect** client.
-2. Go to [SHIP-HATS portal](https://www.ship.gov.sg/).
+1. Go to [SHIP-HATS portal](https://www.ship.gov.sg/), and click **LOGIN** or click the [self-help](https://www.ship.gov.sg/selfhelp) link.  
 
-3. Click the [self-help](https://www.ship.gov.sg/selfhelp) link. You will be directed to the **Self-help Requests** page.
+    You will be directed to the **Self-help Requests** page.
 
-4. Click **Reset 2FA**.
-5. Enter your **Username** used for registering with SHIP-HATS.
-6. Select the checkbox to confirm that you are not a robot and click **Submit**.
+1. Click **Reset 2FA**.
+1. Enter your **Username** used for registering with SHIP-HATS.
+1. Select the checkbox to confirm that you are not a robot and click **Submit**.
 
     ![2fa-reset-request-success](./images/2fa-reset-request-success.png ':size=75%')
 
@@ -106,9 +100,9 @@ If you have forgotten your SHIP-HATS password, you may reset it anytime followin
 
 ### To reset SHIP-HATS password
 
-1. Disconnect from your **OpenVPN Connect** client.
-1. Go to [SHIP-HATS portal](https://www.ship.gov.sg/).
-1. Click the [self-help](https://www.ship.gov.sg/selfhelp) link. You will be directed to the **Self-help Requests** page.
+1. Go to [SHIP-HATS portal](https://www.ship.gov.sg/), and click **LOGIN** or click the [self-help](https://www.ship.gov.sg/selfhelp) link.  
+
+    You will be directed to the **Self-help Requests** page.
 1. Click **Reset Password**.
 1. Enter your **Username** or **Email Address** used for registering with SHIP-HATS.
 1. Select the checkbox to confirm that you are not a robot, and then click **Submit**.
