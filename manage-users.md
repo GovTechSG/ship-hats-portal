@@ -14,10 +14,15 @@ Subscription Admin (SA) and Project Admin (PA) can view all users associated wit
 ### To view users
 
 1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).  
-   Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).
+
+   Make sure that you are in the required account. If needed, [Switch account](manage-account).
 
 1. From the side menu, click **Users > All Users**.  
-   A list of users appears, along with following details: 
+
+   A list of users appears, along with following details:
+
+   >**Note:** Users will appear here only if they were added in the [TechBiz portal](https://portal.techbiz.suite.gov.sg/).
+
    |Column|Description|
    |---|---|
    **Name**|Indicates the name of the user. <br>If *First Name* and *Last Name* were not provided when creating a new user account, only email address will appear in this column.<br>If a user is a Subscription Admin, it is indicated by the label **Subscr Admin** beside the username.
@@ -61,9 +66,9 @@ You can generate a report to view all details for the active and removed users.
 
    |Field|Description|
    |---|---|
-   **Username**|Indicates the username for the user
-   **Name**|Indicates the full name of the user
-   **Email**|Indicates the email address of the user
+   **Username**|Indicates the username for the user.
+   **Name**|Indicates the full name of the user.
+   **Email**|Indicates the email address of the user.
    **Subscription Admin**|Indicates whether the user is a Subscription Admin. 
    **Project Role**|Indicates whether the user is a Project Admin.
    **Quota consumed**|Indicates whether the user is consuming quota from the current subscription.  
@@ -76,7 +81,7 @@ You can generate a report to view all details for the active and removed users.
    **Approved By**|Indicated the name of the SA or PA who approved the user.
    **Removed Date**| Indicates the date when the user was removed.
    **Removed By**|Indicates the name of the SA or PA who removed the user.
-   **Removal Reason**|Indicates the reason for removal of a user as entered by the SA or PA
+   **Removal Reason**|Indicates the reason for removal of a user as entered by the SA or PA.
 
 <!--
 

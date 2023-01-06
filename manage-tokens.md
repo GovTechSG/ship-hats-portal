@@ -20,12 +20,15 @@ You can retrieve token for the following project tools:
 ### To retrieve token
 
 1. From the side menu, click **Projects** to view all the projects in this subscription account.  
+
     >**Tip:** If needed, [Switch account](manage-account).
 
 1. Click the required project.
+
     > **Note:** Alternatively, click three dots for more options, and then click **Manage Project**.
 
 1. Click the tool for which you want to retrieve the token, and then click **Manage**.
+
     The **Manage Tool** window appears.
 
     > **Note:**
@@ -33,8 +36,11 @@ You can retrieve token for the following project tools:
     >- To retrieve the token for FOD or Nexus IQ, click the copy icon next to **CI Token**.
 
 1. In the **Manage Tool** window that appears, from the dropdown, select **Token & Key for pipeline**.
+
 1. If requested, select the app name/key.
+
     The token appears under the **Token/Decoded Token ID** field. You can also view expiry date below the token.
+    
 1. Click the **Copy** button next to the token to copy the token.
 
 ## Renew Token
@@ -47,13 +53,16 @@ You can renew token for the following tools:
 ### To renew an expired token
 
 
-1. From the side menu, click **Projects** to view all the projects in this subscription account.  
+1. From the side menu, click **Projects** to view all the projects in this subscription account. 
+
     >**Tip:** If needed, [Switch account](manage-account).
 
 1. Click the required project.
+
     > **Note:** Alternately, click three dots for more options, and then click **Manage Project**.
     
 1. Click the tool for which you want to renew the token, and then click **Manage**.
+
     The **Manage Tool** window appears.
 
     > **Note:** If you are trying to renew the token for NexusIQ, in the **Token** tab, click **Refresh Token**.
@@ -61,6 +70,7 @@ You can renew token for the following tools:
 1. Click the drop-down arrow, and then choose **Token**. The option may vary based on tool selected.
 
 1. Click **Renew Token**.
+
 1. Refresh the page to get the new token.
 
 
