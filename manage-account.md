@@ -176,14 +176,16 @@ If you are a Subscription Admin (SA), you can off-board your subscription accoun
 
 ### To off-board an account
 
-1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/). 
+<!--1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).--> 
+
 1. Select an expected date to off-board. 
 
     - For a subscribed account, there is a minimum commitment of 6 months stated in the service sheet. Therefore, you will be allowed to select a date after fulfilling the 6 month period only.
     - If you are on a trial account, you can select a date of your choice to off-board the account.
-1. After you have a confirmed date, create a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11) with following details:  
 
-    - In the **Title** field, add the title in the following format: *[REQUEST TO OFF-BOARD] AgencyName - BillingRef - SubscriptionTitle*
+1. After you have a confirmed date, [create a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11) with following details:  
+
+    - In the **Title** field, add the title in the following format: `[REQUEST TO OFF-BOARD] AgencyName - BillingRef - SubscriptionTitle`
     - In the **Description** field, provide the following details: 
         - Expected date to off-board
         - Users list (including SA & PA)
