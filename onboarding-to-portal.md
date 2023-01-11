@@ -1,6 +1,13 @@
 # Onboard to SHIP-HATS Portal
 
-The following image and table outlines the steps that you must complete to configure the SHIP-HATS portal. After you have completed these steps, you will need to perform additional steps to configure the tools that you want to use.
+## Prerequisites
+
+Subscription Admin (SA) to: 
+- [Subscribe to the SHIP-HATS product via the TechBiz portal](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/onboard-to-ship-hats) 
+- [Add users in TechBiz portal](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/)
+
+## Configure SHIP-HATS portal
+The following table outlines the steps that you must complete to configure the SHIP-HATS portal. After you have completed these steps, you will need to perform additional steps to configure the tools that you want to use.
 
 These tasks may be completed by multiple people in your organization and SHIP-HATS team. However, these tasks must be completed in the specified order. All steps are required unless otherwise noted.
 
