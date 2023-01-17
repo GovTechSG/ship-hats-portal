@@ -63,9 +63,9 @@ Only Subscription Admin (SA) and Project Admin (PA) can access this dashboard to
     - Information for the Billing Account. By default, you view the subscription details of the first account to which you were added as SA or PA. You can [switch account](manage-account), as needed.
     - [Plan details](manage-account)
 - **YOU HAVE:** 
-    - Number of systems added to this account
-    - Number of projects hosted on this account
-- **Projects Listing:** Projects under this account 
+    - **SYSTEM:** Number of systems added to this account
+    - **PROJECTS:** Number of projects hosted on this account
+- **Projects Listing:** List of projects under this account 
 - **ALERTS:** Announcements about SHIP-HATS services, maintenance notice, generic subscription updates, and any urgent or important messages
 
 <kbd>![Dashboard](./images/dashboard.png)</kbd>

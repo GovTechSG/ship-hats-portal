@@ -13,17 +13,23 @@ Using the user groups, as an SA or a PA, you can:
 - [Remove user groups](#remove-user-groups)
 - [Remove users from user groups](#remove-users-from-user-groups)
 
-
-
 ## Create user groups
 
 As an SA/PA, you can create user groups based on quota specified for your projects based on your subscription.  
 
 ### To create a user group
 1. From the side menu, click **Users** > **All User Groups**. 
+
+   ![User groups](./images/user-groups-view.png)
+
 1. Click **Create Group**.  
+
    The **Create New User Group** window appears.  
-   >**Note:** If you have consumed the quota available for user groups, the **Create Group** button is disabled. If you want to continue to add user groups beyond the available quota limit, create a service request.
+
+   >**Note:** If you have consumed the quota available for user groups, the **Create Group** button is disabled. If you want to continue to add user groups beyond the available quota limit, [create a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11).
+
+   ![Create group](./images/user-groups-create.png)
+
 1. Enter values in the following fields:     
    |Field|Description|
    |---|---|
@@ -31,48 +37,55 @@ As an SA/PA, you can create user groups based on quota specified for your projec
    |**Group Description**|Enter description for the group. You can add up to 250 characters.|
    **Group Members**|Select users to be added to the group from the drop-down list. You can select active users in the current subscription only. Though inactive (suspended) users will also appear in the list, you cannot add them as group members.|
 
-   <!--<kbd>![New User Group](./images/user-groups-new.png)</kbd>-->
-
 1. Click **Create Group**.  
+
    The user group is created and appears under the **Group Name** column on the **All User Groups** screen. 
 
-   <!--<kbd>![User Groups All](./images/user-groups-all.png)</kbd>-->
-
+   ![Create group](./images/all-user-groups.png)
 
 ## Access user groups
 
-### To access a user group
+### To access user groups
+
 1. From the side menu, click **Users** > **All User Groups**.  
 
    The **All User Groups** window appears, displaying all the user groups listed under the **Group Name** column.  
-   At the top, you can view the quota consumed/quota available. For example, `2/12 groups created` indicates that you have created 2 out of the 12 group quota that is available based on the number of projects your subscription can create.
    
-   <!--In the image below, you can see available quota is 200 and number of groups created is 100.-->  
+   At the top, you can view the quota consumed/quota available. For example, `1/5 groups created` indicates that you have created 1 out of the 5 group quota that is available based on the number of projects your subscription can create.
 
-   <!--<kbd>![User Groups All](./images/user-groups-all.png)</kbd>-->
+   ![User groups](./images/all-user-groups.png)
 
+## Add users to user group
 
-
-## Add users to user groups
-
-### To add users to user groups
+### To add users to a user group
 
 1. From the side menu, click **Users** > **All User Groups**.
 1. Next to the user group to which you want to add a new user, under **Actions**, select **Manage**.   
-1. In **Add users**, select additional users, and then click **Add**.  
-   The newly added user appears under the **Name** column.
 
-   <!--<kbd>![Add Users](./images/user-groups-add-users.png)</kbd>-->
+   ![Actions](./images/user-group-actions.png)
+
+1. In **Add users**, select additional users, and then click **Add**.  
+
+   ![add users](./images/user-groups-add-users.png)
+
+   The newly added user appears under the **Name** column.
 
 ## Remove users from user groups
 
 ### To remove a user from a user group
 1. From the side menu, click **Users** > **All User Groups**.
-1. Next to the user group to which you want to add a new user, under **Actions**, select **Manage**.
-1. Under the **Name** column, next to the user that you want to remove, click **Remove**.  
-A pop-up appears indicating that the selected user will lose all the permissions assigned to the user group.  
+1. Next to the user group from which you want to remove a user, under **Actions**, select **Manage**.
 
-   <!--REMOVE THIS IMAGE<kbd>![Remove Users](./images/user-groups-remove-users.png)</kbd>-->
+   ![Manage](./images/user-group-actions.png)
+
+1. Next to the user that you want to remove, click **Remove**.  
+
+   ![remove user](./images/user-group-users.png)
+
+   A pop-up appears indicating that the selected user will lose all the permissions assigned to the user group.  
+
+   ![Remove](./images/user-group-user-remove.png)
+
 1. Click **Proceed**.  
    The user is removed.
 
@@ -82,9 +95,13 @@ A pop-up appears indicating that the selected user will lose all the permissions
 ### To remove a user group
 1. From the side menu, click **Users** > **All User Groups**.
 1. Next to the user group to which you want to add a new user, under **Actions**, select **Remove group**.  
-   A pop-up message appears indicating that the users in this user group will lose all permissions assigned to it.  
 
-   <!--REMOVE THIS IMAGE<kbd>![Remove User Group Message](./images/user-groups-remove-message.png)</kbd>-->
+   ![Actions](./images/user-group-actions.png)
+
+   A **Remove User Group** pop-up message appears indicating that the users in this user group will lose all permissions assigned to it.  
+
+   ![Remove user group](./images/user-group-remove.png)
+
 1. Click **Proceed**.  
    The user group is removed. 
 

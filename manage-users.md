@@ -9,19 +9,21 @@
 
 ## View users
 
-Subscription Admin (SA) and Project Admin (PA) can view all users associated with a subscription account and their roles in your account.
+Subscription Admin (SA) and Project Admin (PA) can view all users associated with a subscription account and their roles in their account if the users were added in the [TechBiz portal](https://portal.techbiz.suite.gov.sg/).
 
 ### To view users
 
 1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).  
 
-   Make sure that you are in the required account. If needed, [Switch account](manage-account).
+   > **Tip:** Make sure that you are in the required account. If needed, [Switch account](manage-account).
 
 1. From the side menu, click **Users > All Users**.  
 
    A list of users appears, along with following details:
 
    >**Note:** Users will appear here only if they were added in the [TechBiz portal](https://portal.techbiz.suite.gov.sg/).
+
+   ![View all users](./images/users-all.png)
 
    |Column|Description|
    |---|---|
@@ -37,31 +39,33 @@ Subscription Admin (SA) and Project Admin (PA) can view all users associated wit
    **Action**|Enables you to [Manage access](#manage-access) and [Remove User](#remove-users).
    -->
 
-   <!--<kbd>![all-users-new](./images/all-users-new.png ':size=100%')</kbd>-->
-
    You can perform following additional functions on this screen:
    - **Sort:** You can sort this list in ascending or descending order by one of the following options:
       - Name
       - Project Role
-      - CI
-      - Sonatype
       - GitLab
+      - Jira/Confluence
+      - Sonatype
       - Last Login
     - **Search:** You can quickly search for a user by typing the username in the search box.
 
-       <!--<kbd>![search_user](./images/export-csv.png ':size=100%')</kbd>-->
     - **Download:** If you want to download the user list as a .csv file to your local machine, click **Export CSV**. This csv lists the active and removed users along with the approval and removal details. For more details, refer to the [Generate User Report](#generate-user-report) documentation.
+
 
 ## Generate user report
 You can generate a report to view all details for the active and removed users.
 
 ### To generate a user report
 1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).   
-   Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).
+   
+   >**Tip:** Make sure that you are in the required account. If needed, [Switch account](manage-account).
+
 1. From the side menu, click **Users > All Users**.
 
-   <!--<kbd>![all-users-new](./images/all-users-new.png ':size=100%')</kbd>-->
 1. Click **Export CSV**.  
+
+   ![Export CSV](./images/users-all-export-csv.png)
+
    The CSV report is downloaded to the your machine with the following details:
 
    |Field|Description|
@@ -83,6 +87,13 @@ You can generate a report to view all details for the active and removed users.
    **Removed By**|Indicates the name of the SA or PA who removed the user.
    **Removal Reason**|Indicates the reason for removal of a user as entered by the SA or PA.
 
+
+### Related Topics
+- [Manage user groups](manage-user-groups)
+- [Manage user groups & users](manage-user-groups-and-users) 
+
+
+
 <!--
 
 ## Manage access
@@ -92,18 +103,12 @@ You can generate a report to view all details for the active and removed users.
 1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).   
    Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).
 
-1. From the side menu, click **Users > All Users**.-->
-
-   <!--<kbd>![all-users-new](./images/all-users-new.png ':size=100%')</kbd>-->
-
-<!--
+1. From the side menu, click **Users > All Users**.
 1. Search for the user whose access you want to manage. 
 1. From the **Action** column, click ![3 dots](./images/3_dot.png) corresponding to the user.  
 1. Select **Manage Access**, and then select the tools that you want to enable for the user. Following options are available: 
    - **CI tools:** Select this option if the user is required to have access to Jira, Confluence, Bitbucket, Bamboo, pCloudy, SonarQube, Fortify SCA & WebInspect, Fortify on Demand, and Prisma Cloud services.
    - **SonaType tools:** Select this option if the user is required to have access to Nexus IQ and Nexus Repo Scan services.
-
-      ![manage-access](./images/manage-access.png ':size=80%')
 
 1. Click **Proceed**.  
    A confirmation message appears, indicating that the user will receive an email regarding the change. 
@@ -122,8 +127,6 @@ If SHIP-HATS users are inactive for 60 consecutive days, their status changes fr
 
 On day 91, if the user is still inactive on SHIP-HATS, user status changes from **sleeping user** to **suspended user**, indicated by a grey avatar.  -->
 
-<!--<kbd>![profile-legends](./images/profile-legends.png ':size=100%')</kbd>-->
-
 <!--SA and PA can reactivate a suspended user back to their account if required.-->
 
 <!--
@@ -137,8 +140,6 @@ If you are **not a TechPass user**, the SA or PA can complete the following step
    Make sure that you are in the required account. If needed, refer to [Switch account](manage-account).  
 1.  From the side menu, click **Users > All Users**.  
 1. Search for the user to be reactivated and from the **Action** column, click ![3_dot](./images/3_dot.png) corresponding to the user.  -->
-
-   <!--<kbd>![user_status_2](./images/user_status_2.png ':size=100%')</kbd><br />-->
    
 <!--   > **Tip:** Refer to [Viewing users](#view-users) to know how to search for users  
 1. Choose **Reactivate User**. User, SAs and the requestor will be notified through an email about the reactivation.  
@@ -169,9 +170,7 @@ Make sure that you are in the required account. If needed, refer to [Switch acco
 <!--
 1. Choose **Remove User**.
 -->
-### Related Topics
-- [Manage user groups](manage-user-groups)
-- [Manage user groups & users](manage-user-groups-and-users) 
+
 
 
 <!--
