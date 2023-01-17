@@ -15,6 +15,9 @@
 
 1. Log in to the [SHIP-HATS](https://portal.ship.gov.sg/) portal.
 1. Under your name, click the drop-down, and then select **View profile**. 
+
+    ![view profile](./images/users-self-help.png)
+
     On the **Profile** page, you can view the following information:
 
     - **Personal Information**
@@ -22,6 +25,9 @@
         - Last Name
         - Username
         - Company Email Address
+
+        ![profile](./images/profile.png)
+
     - **Subscriptions**
 
         - Your subscription information, such as:
@@ -35,7 +41,7 @@
     
         - View the user groups to which you belong.
 
-
+        ![user-groups](./images/profile-user-groups.png)
 
 ## Update user profile
 
@@ -59,6 +65,9 @@ If you have forgotten your SHIP-HATS username, you may retrieve it anytime follo
 1. Go to [SHIP-HATS portal](https://www.ship.gov.sg/), and click **LOGIN** or click the [self-help](https://www.ship.gov.sg/selfhelp) link.  
 
     You will be directed to the **Self-help Requests** page.
+
+    ![retrieve username](./images/retrieve-user-name.png)
+
 1. Click **Retrieve Username**.
 1. Enter **Email Address** used for registering with SHIP-HATS.
 1. Select the checkbox to confirm that you are not a robot, and then click **Submit**.
@@ -72,8 +81,10 @@ You can reset your 2FA for SHIP-HATS anytime by following the below steps.
 
     You will be directed to the **Self-help Requests** page.
 
+    ![reset 2FA](./images/reset-2fa.png)
+
 1. Click **Reset 2FA**.
-1. Enter your **Username** used for registering with SHIP-HATS.
+1. Enter your **Username** and your **Password** used for registering with SHIP-HATS.
 1. Select the checkbox to confirm that you are not a robot and click **Submit**.
 
     ![2fa-reset-request-success](./images/2fa-reset-request-success.png ':size=75%')
@@ -88,11 +99,19 @@ As per IM8 policy, all SHIP-HATS users must change their SHIP-HATS password at l
 ### To change password
 
 1. In the upper-right corner, hover over your profile icon/name.
+
+    ![users self help](./images/users-self-help.png)
+
 1. Click **Change password**. 
+
 1. On the **Change Password** screen, enter values in the following fields:
+
     - **Current password**
     - **New password**
-    - **Confirm new password**
+    - **Confirm new password**  
+
+    ![change password](./images/change-password.png)
+
 1. Click **Update password**.
 
 ## Reset password
@@ -103,6 +122,9 @@ If you have forgotten your SHIP-HATS password, you may reset it anytime followin
 1. Go to [SHIP-HATS portal](https://www.ship.gov.sg/), and click **LOGIN** or click the [self-help](https://www.ship.gov.sg/selfhelp) link.  
 
     You will be directed to the **Self-help Requests** page.
+
+    ![reset password](./images/reset-password.png)
+
 1. Click **Reset Password**.
 1. Enter your **Username** or **Email Address** used for registering with SHIP-HATS.
 1. Select the checkbox to confirm that you are not a robot, and then click **Submit**.
