@@ -40,4 +40,4 @@ Subscription Admins can add Project Admins using the SHIP-HATS portal. When crea
 
 ## Change subscription admin
 
-To change or transfer the existing SA role to another user, the SA can raise a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11/create/364) with the required details, such as the name and email address of the user to whom the SA role is to be transferred.
+To change or transfer the existing SA role to another user, the SA can use [the TechBiz portal](http://portal.techbiz.suite.gov.sg/) to [manage the TechBiz account](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/manage-techbiz-account).
