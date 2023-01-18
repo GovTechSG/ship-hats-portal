@@ -15,29 +15,53 @@ SA or PA can add the required project tools as explained below. You can add tool
 
 ### To add project tools
 
-1. From the side menu, click **Projects** to view all the projects in this subscription account.  
-    > **Tip:** If needed, [Switch account](manage-account).
+1. From the side menu, click **Workspace**.
+    
+    The **Systems** screen appears, displaying all the systems added to your subscription.
+
+    ![view systems](./images/view-systems.png)
+
+1. Select the System for which you want to view projects. 
+
+    The **Projects** screen appears, displaying all the previously added projects. 
+
+    ![all projects](./images/projects-all.png)
 
 1. Locate the project to which you want to add a tool, and then click the project.
+
+    **Project Description** screen appears, displaying the **Subscribed Tools** that the SA added in the TechBiz portal. You can also view **Not Subscribed Tools** that 
+
     > **Note:** Alternately, click three dots for more options, and then click **Manage Project**.
+
+    ![Project description](./images/project-description.png)
+
 1. Locate the tool that you want to add, click **Create**, and follow the specific steps in table for the tool that you want to add.
 
-    |Available Tools|Steps|
-    |---|---|
+    |Available Tools|Steps|Image|
+    |---|---|---|
+    |GitLab|Make sure that at least 1 Project Admin has a GitLab account and is added to the TechPass group.<ol><li>In the **GitLab Group Name**, enter the group name.</li><li>From the **System** drop-down, select your system. <!--<br>If you cannot find your system in the drop-down list, follow the steps to [Declare a DGP System](declare-dgp-systems).--></li> <ol> |
     |Confluence|<ol><li>Click **Add**.</li><li>Provide **Project Name**.</li><ol>|
     |Fortify on Demand| <ol><li> Provide value in the **Application Name** and **Release name** fields.<br>**Release name** is an optional field.</li></ol>|    
-    |GitLab|Make sure that at least 1 Project Admin has a GitLab account and is added to the TechPass group.<ol><li>In the **GitLab Group Name**, enter the group name.</li><li>From the **System** drop-down, select your system. <br>If you cannot find your system in the drop-down list, follow the steps to [Declare a DGP System](declare-dgp-systems).</li> <ol> |
     |Jira|<ol><li>Click **Add**.</li><li>Provide **Project Name**.</li><ol>|
     |Nexus IQ|<ol><li>Click **Add**.</li><li> Enter values in the **Application Name** and **Application ID** fields.</li><ol>|
     |Nexus Repo|<ol><li>Click **Add**.</li><li>Submit a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11/) to add this tool.</li><ol>|
-    |pCloudy|<ol><li>Click **Add**.</li><ol>|
+    |pCloudy|<ol><li>Click **Add**.<br>The **Add New pCloudy Application** popup appears, displaying the allowed number of parallel shared mobile device tests.</li><ol>|
     |Prisma Cloud|<ol><li>Click **Add**.</li><li>In the **App name** field, enter the required value. </li><ol>|
     |SonarQube|Make sure that you have logged in to [SonarQube Community Edition](https://sonar.hats.stack.gov.sg/sonar) or [SonarQube Developer Edition](https://sonar1.hats.stack.gov.sg/sonar) at least once.<ol><li>Click **Add**.</li><li>In the **Application Type** and **App Name** fields, enter the required values.</li><ol>|
 
     >**Note:** After you reach the quota, the respective tool name(s) will be disabled in the **Select Tool** drop-down list. If you still want to add these tools, send an email to [enquiries_ENP@tech.gov.sg](enquiries_ENP@tech.gov.sg).    
+
+    The following image shows an example to add GitLab. 
+
+    ![Add tool](./images/tool-add-new.png 'size:40%')
+
 1. Click **Add**.   
     
     The selected project tool and application is added.
+
+    The following image shows an example where GitLab has been added. 
+    
+    ![Added tool](./images/tool-added-new.png)
 
 
 ## Add project tool with customised project key
@@ -80,9 +104,9 @@ Subscription Admin (SA) and Project Admin (PA) can customise the project keys wh
 
 As a Subscription Admin or a Project Admin, you can **remove a tool or an app** when it is not required. You can remove the following tools: 
 
+- GitLab
 - Confluence
 - Fortify on Demand
-- GitLab
 - Jira
 - Nexus IQ
 - SonarQube
@@ -91,7 +115,8 @@ As a Subscription Admin or a Project Admin, you can **remove a tool or an app** 
 ### To remove a project tool
 
 
-1. From the side menu, click **Projects** to view all the projects in this subscription account.  
+1. From the side menu, click **Projects** to view all the projects in this subscription account. 
+
     > **Tip:** If needed, [Switch account](manage-account).
 
 1. Identify your project, and then click the project.
