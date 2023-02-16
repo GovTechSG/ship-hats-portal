@@ -3,7 +3,6 @@
   - [Overview](ship-hats-portal-overview)
   - [What's New](what-s-new)
   - [User roles and permissions](user-roles-and-permissions) 
-  - [new Customer SH to GL](sh-to-gl)
 **Portal**  
   - [Onboard to portal](onboarding-to-portal)
   - [Access portal](access-ship-hats-portal)  
