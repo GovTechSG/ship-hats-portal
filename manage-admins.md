@@ -24,7 +24,7 @@ Subscription Admins can add Project Admins using the SHIP-HATS portal. When crea
 
     ![view systems](./images/view-systems.png)
 
-1. Select the System for which you want to remove a project. 
+1. Select the System. 
 
     The **Projects** screen appears, displaying all the previously added projects. 
 
