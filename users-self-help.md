@@ -29,7 +29,7 @@
         ![profile](./images/profile.png)
 
     - **Subscriptions**
-
+        You can view this section only if you are a Subscription Admin or Project Admin.
         - Your subscription information, such as:
             - Subscription Admin for the subscription
             - Number of tools/applications tied to the subscription
