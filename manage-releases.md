@@ -3,6 +3,7 @@
 **Topics**
 
 - [Add release](#add-release)
+- [Rename release](#rename-release)
 - [Delete release](#delete-release)
 
 ## Add release
@@ -11,11 +12,21 @@ This feature is applicable only for FOD.
 
 ### To add a release in FOD
 
-1. From the side menu, click **Projects** to view all the projects in this subscription account.  
-    >**Tip:** If needed, [Switch account](manage-account).
+1. From the side menu, click **Workspace**.
+    
+    The **Systems** screen appears, displaying all the systems added to your subscription.
 
-1. Click the required project.
-    > **Note:** Alternately, click three dots for more options, and then click **Manage Project**.
+    ![view systems](./images/view-systems.png)
+
+1. Select the required System. 
+
+    The **Projects** screen appears, displaying all the previously added projects. 
+
+    ![all projects](./images/view-projects.png)
+
+1. Locate the required project, and then click the project.
+
+    > **Note:** Alternatively, click three dots for more options, and then click **Manage Project**.
 
 1. Click Fortify on Demand, and then click **Release**.
 
@@ -29,6 +40,33 @@ This feature is applicable only for FOD.
 
     The newly added **Release Name** and **Release ID** appear in the list.
 
+## Rename release
+
+### To rename a release in FOD
+
+
+1. From the side menu, click **Workspace**.
+    
+    The **Systems** screen appears, displaying all the systems added to your subscription.
+
+    ![view systems](./images/view-systems.png)
+
+1. Select the required System. 
+
+    The **Projects** screen appears, displaying all the previously added projects. 
+
+    ![all projects](./images/view-projects.png)
+
+1. Locate the required project, and then click the project.
+
+    > **Note:** Alternatively, click three dots for more options, and then click **Manage Project**.
+
+1. Click Fortify on Demand, and then click **Release**.
+1. Next to the release that you want to rename, click the pencil icon. 
+1. Enter the required name, and then click **Update**. 
+
+    The release is renamed. 
+
 
 ## Delete release
 
@@ -36,17 +74,30 @@ This feature is applicable only for FOD.
 
 ### To delete a release in FOD
 
-1. From the side menu, click **Projects** to view all the projects in this subscription account.  
 
-    >**Tip:** If needed, [Switch account](manage-account).
+1. From the side menu, click **Workspace**.
+    
+    The **Systems** screen appears, displaying all the systems added to your subscription.
 
-1. Click the required project.
-    > **Note:** Alternately, click three dots for more options, and then click **Manage Project**.
+    ![view systems](./images/view-systems.png)
+
+1. Select the required System. 
+
+    The **Projects** screen appears, displaying all the previously added projects. 
+
+    ![all projects](./images/view-projects.png)
+
+1. Locate the required project, and then click the project.
+
+    > **Note:** Alternatively, click three dots for more options, and then click **Manage Project**.
 
 1. Click Fortify on Demand, and then click **Release**.
+
 1. Click the delete icon corresponding to the release version to be deleted.
 
     The **Remove FOD Release** window appears.
+
+    >**Note:** You will see a delete icon only if there are more than one releases. 
 
 1. Type *REMOVE* to confirm, and click **Proceed**.  
 

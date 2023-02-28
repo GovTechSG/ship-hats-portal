@@ -2,11 +2,18 @@
 
 **Topics**
 
+- [View token](#view-token)
 - [Retrieve token](#retrieve-token)
-- [Renew token](#renew-token)
+- [Refresh/Renew token](#refreshrenew-token)
 
+## View Token
 
-## Retrieve token
+You can:
+- [Retrieve token](#retrieve-token) for an individual tool/app by navigating to your project.
+<br>or   
+- [Access your profile](users-self-help) to view all tokens under **Application Info**. [Only for SA or PA]
+
+## Retrieve Token
 
 You can retrieve token for the following project tools:  
 
@@ -19,22 +26,29 @@ You can retrieve token for the following project tools:
 
 ### To retrieve token
 
-1. From the side menu, click **Projects** to view all the projects in this subscription account.  
 
-    >**Tip:** If needed, [Switch account](manage-account).
+1. From the side menu, click **Workspace**.
+    
+    The **Systems** screen appears, displaying all the systems added to your subscription.
 
-1. Click the required project.
+    ![view systems](./images/view-systems.png)
+
+1. Select the required System. 
+
+    The **Projects** screen appears, displaying all the previously added projects. 
+
+    ![all projects](./images/view-projects.png)
+
+1. Locate the required project, and then click the project.
 
     > **Note:** Alternatively, click three dots for more options, and then click **Manage Project**.
 
-1. Click the tool for which you want to retrieve the token, and then click **Manage**.
+1. Click the tool for which you want to retrieve the token.
 
-    The **Manage Tool** window appears.
+1. To view the token, within the **Tokens** tab, click the eye icon next to **CI Token**.
+1. To copy the token, within the **Tokens** tab, click the copy icon next to **CI Token**.
 
-    > **Note:**
-    >- To view the token value for FOD or Nexus IQ, click the eye icon next to **CI Token**.
-    >- To retrieve the token for FOD or Nexus IQ, click the copy icon next to **CI Token**.
-
+<!--
 1. In the **Manage Tool** window that appears, from the dropdown, select **Token & Key for pipeline**.
 
 1. If requested, select the app name/key.
@@ -42,36 +56,37 @@ You can retrieve token for the following project tools:
     The token appears under the **Token/Decoded Token ID** field. You can also view expiry date below the token.
     
 1. Click the **Copy** button next to the token to copy the token.
+-->
+## Refresh/Renew Token
 
-## Renew Token
-
-You can renew token for the following tools:
+You can refresh/renew token for the following tools:
 - Fortify on Demand
 - SonarQube
 - NexusIQ
 
-### To renew an expired token
+### To refresh/renew a token
 
 
-1. From the side menu, click **Projects** to view all the projects in this subscription account. 
-
-    >**Tip:** If needed, [Switch account](manage-account).
-
-1. Click the required project.
-
-    > **Note:** Alternately, click three dots for more options, and then click **Manage Project**.
+1. From the side menu, click **Workspace**.
     
-1. Click the tool for which you want to renew the token, and then click **Manage**.
+    The **Systems** screen appears, displaying all the systems added to your subscription.
 
-    The **Manage Tool** window appears.
+    ![view systems](./images/view-systems.png)
 
-    > **Note:** If you are trying to renew the token for NexusIQ, in the **Token** tab, click **Refresh Token**.
+1. Select the required System. 
 
-1. Click the drop-down arrow, and then choose **Token**. The option may vary based on tool selected.
+    The **Projects** screen appears, displaying all the previously added projects. 
 
-1. Click **Renew Token**.
+    ![all projects](./images/view-projects.png)
 
-1. Refresh the page to get the new token.
+1. Locate the required project, and then click the project.
+
+    > **Note:** Alternatively, click three dots for more options, and then click **Manage Project**.
+
+1. Click the tool for which you want to refresh/renew the token.
+
+1. Within the **Tokens** tab, click **Refresh/Renew Token**.
+
 
 
 <!--

@@ -3,8 +3,9 @@
 **Topics**
 
 - [Manage user groups within a project tool](#manage-user-groups-within-a-project-tool)
-- [Manage user within a project tool](#manage-users-within-a-project-tool)
-- [Remove user groups from a project tool](#remove-user-groups-from-a-project-tool)
+- [Manage users within a project tool](#manage-users-within-a-project-tool)
+
+<!--- [Remove user groups from a project tool](#remove-user-groups-from-a-project-tool)-->
 
 
 
@@ -24,36 +25,30 @@ You can manage user groups and permissions/roles for the following tools:
 ### To manage user groups for your project tool or app
 
 
-1. From the side menu, click **Projects** to view all the projects in this subscription account.  
+1. From the side menu, click **Workspace**.
     
-    >**Tip:** If needed, [Switch account](manage-account).
+    The **Systems** screen appears, displaying all the systems added to your subscription.
 
-1. Click the project that you want to update.
-    
-    > **Note:** Alternately, click three dots for more options, and then click **Manage Project**.
+    ![view systems](./images/view-systems.png)
 
-1. Click the tool for which you want to manage/add user groups, and then click **Manage**.
-    The **Manage Tool** window appears.
+1. Select the required System. 
 
-    >**Note:** If you want to manage user groups for FOD, select **Manage Users** tab.
+    The **Projects** screen appears, displaying all the previously added projects. 
 
-1. From the **Select function** dropdown list, select **Manage/add user group**. 
+    ![all projects](./images/view-projects.png)
 
-    |Available Tools|Steps|
-    |---|---|
-    | **Confluence** |Provide value in the **User Group** field, and then select the required permissions. 
-    | **Jira** |Provide value in the **User Group** field, and then select the required roles. 
-    |**Fortify on Demand** |Select **Manage user access** or **Manage user role** as required.  <br>- If you want to **Manage user access**, select values in the **User(s)** field.  <br>- If you want to **Manage user role**, select values in the **User** and **Role** fields.|   
-    | **Nexus IQ**| Provide value in the **User Group** field, and then select the required roles. 
-    | **SonarQube**| Provide values in the **App Name** and **User Group** fields, and then select the required permissions.<br> The **Browse** permission is selected by default along with any other permission. 
-    
-1. Click **Update**.
+1. Locate the required project, and then click the project.
 
-    The permissions or roles are updated in the portal as well as respective tools. Any permissions assigned via portal will override the previously assigned permissions in NexusIQ at the app level.
+    > **Note:** Alternatively, click three dots for more options, and then click **Manage Project**.
+
+1. Click the tool for which you want to manage/add user groups, and then click the **Manage User Groups** tab.
+
+1. In the **User Group** drop-down, select the required group. 
+1. In **Select Role/Permission**, select the required role or permission, and then click **Update**. 
+
+    The roles or permissions are updated in the portal as well as respective tools. Any permissions assigned via portal will override the previously assigned permissions in the tool.
 
     >**Note:** Any permissions assigned via portal will override the previously assigned permissions in NexusIQ at the app level.
-
-
 
 ## Manage users within a Project Tool
 
@@ -64,32 +59,48 @@ You can manage users for the following tools:
 - JIRA
 - Fortify on Demand
 - Nexus IQ
-
+- SonarQube
 
 ### To manage users for your project tool or app
 
 
-1. From the side menu, click **Projects** to view all the projects in this subscription account.  
-    >**Tip:** If needed, [Switch account](manage-account).
-
-1. Click the project that you want to update.
-    > **Note:** Alternately, click three dots for more options, and then click **Manage Project**.
-
-1. Click the tool for which you want to manage/add users.
-1. Click **Manage**, and then click **Manage/add users**.
-
-    The **Manage Tool** window appears. 
+1. From the side menu, click **Workspace**.
     
-    >**Note:**  If you want to manage user groups for FOD, select **Manage Users** tab.   
-    > - If you want to **Manage user access**, select values in the **User(s)** field.  
-    > - If you want to **Manage user role**, select values in the **User** and **Role** fields. You can click **Role glossary** to learn more about roles. 
+    The **Systems** screen appears, displaying all the systems added to your subscription.
+
+    ![view systems](./images/view-systems.png)
+
+1. Select the required System. 
+
+    The **Projects** screen appears, displaying all the previously added projects. 
+
+    ![all projects](./images/view-projects.png)
+
+1. Locate the required project, and then click the project.
+
+    > **Note:** Alternatively, click three dots for more options, and then click **Manage Project**.
+
+1. Click the tool for which you want to manage/add user groups, and then click the **Manage Users** tab.
+
+1. If you want to manage users for **Jira**, **Confluence**, or **SonarQube**, just follow the on-screen instructions. 
+1. If you want to manage users for **NexusIQ**, within the **Manage Users** tab: 
+    - In the **User** drop-down, select the required user. 
+    - In **Select Role/Permission**, select the required role or permission, and then click **Update**. 
+
+    The roles or permissions are updated in the portal as well as respective tools.
+
+1. If you want to manage users for **Fortify on Demand**, within the **Manage Users** tab:   
+    - To **Manage user access**, select values in the **User(s)** field.  
+    - To **Manage user role**, select values in the **User** and **Role** fields. 
     
-1. Change as required, and then click **Update**.   
-    or   
-    Follow the on-screen instructions.
+    The roles or permissions are updated in the portal as well as respective tools.
 
+### Related topics
 
+- [Manage users](manage-users)
+- [Manage user groups](manage-user-groups)
 
+<!--
 ## Remove user groups from a project tool
 
 As a Subscription Admin or a Project Admin, you can remove permissions and roles within a project tool or app for the following tools:
@@ -122,8 +133,22 @@ As a Subscription Admin or a Project Admin, you can remove permissions and roles
 1. Click **Update**.  
 
     The permissions or roles are updated.
+-->
 
-### Related topics
 
-- [Manage users](manage-users)
-- [Manage user groups](manage-user-groups)
+<!--
+1. From the **Select function** dropdown list, select **Manage/add user group**. 
+
+1. In the Select the req
+
+    |Available Tools|Steps|
+    |---|---|
+    | **Confluence** |Provide value in the **User Group** field, and then select the required permissions. 
+    | **Jira** |Provide value in the **User Group** field, and then select the required roles. 
+    |**Fortify on Demand** |Select **Manage user access** or **Manage user role** as required.  <br>- If you want to **Manage user access**, select values in the **User(s)** field.  <br>- If you want to **Manage user role**, select values in the **User** and **Role** fields.|   
+    | **Nexus IQ**| Provide value in the **User Group** field, and then select the required roles. 
+    | **SonarQube**| Provide values in the **App Name** and **User Group** fields, and then select the required permissions.<br> The **Browse** permission is selected by default along with any other permission. 
+    
+1. Click **Update**.
+
+-->

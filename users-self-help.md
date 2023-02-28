@@ -16,7 +16,7 @@
 1. Log in to the [SHIP-HATS](https://portal.ship.gov.sg/) portal.
 1. Under your name, click the drop-down, and then select **View profile**. 
 
-    ![view profile](./images/users-self-help.png)
+    ![view profile](./images/users-self-help.png  ':size=70%')
 
     On the **Profile** page, you can view the following information:
 
@@ -31,11 +31,19 @@
     - **Subscriptions**
         You can view this section only if you are a Subscription Admin or Project Admin.
         - Your subscription information, such as:
-            - Subscription Admin for the subscription
-            - Number of tools/applications tied to the subscription
-        - You can click the applications to view tokens and the expiry date. 
-        - You can also download the information as CSV.
-        >**Note:** If you have multiple subscriptions, you will see multiple subscriptions and their details.
+            - Subscription Admin (s) for the subscription
+            - All projects in the subscription
+            - Project Admins for each of the projects in the subscription
+            - If you have multiple subscriptions, you will see multiple subscriptions and their details.
+
+        ![subscriptions](./images/profile-subscription.png)
+
+        - **Application Info:** Click **Application Info** to access the **Applications** window with details of the project in a tabular format. 
+            - Each tab in table represents the Tools added to this project. 
+            - Within each tab, you can view Applications for the tool, Token for each application, and Expiry Date for each application. You can also view **SVC Account Name** as applicable. 
+            - You can also download the information as CSV.
+        
+        ![Applications](./images/profile-subscription-applications.png)
 
     - **User Groups**
     
@@ -100,7 +108,7 @@ As per IM8 policy, all SHIP-HATS users must change their SHIP-HATS password at l
 
 1. In the upper-right corner, hover over your profile icon/name.
 
-    ![users self help](./images/users-self-help.png)
+    ![users self help](./images/users-self-help.png ':size=70%')
 
 1. Click **Change password**. 
 
