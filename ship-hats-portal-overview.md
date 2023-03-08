@@ -1,4 +1,4 @@
-# SHIP-HATS Portal overview
+# SHIP-HATS Portal Overview
 
 SHIP-HATS portal provides an automated portal available for agencies to organize and provision resources. The SHIP-HATS portal is a centralized tool to manage integrated tools supported by SHIP-HATS. The portal enables you to manage the following aspects:
     
