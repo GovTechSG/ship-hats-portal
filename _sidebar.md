@@ -1,7 +1,7 @@
 **Overview**
   - [Audience](audience)
   - [Overview](ship-hats-portal-overview)
-  - [What's New](what-s-new)
+  - [What's New](./whats-new/what-s-new.md)
   - [User roles and permissions](user-roles-and-permissions) 
 **Portal**  
   - [Onboard to portal](onboarding-to-portal)
