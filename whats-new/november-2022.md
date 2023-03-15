@@ -1,4 +1,3 @@
-# November 2022
 
 The following section contains the new features, enhancements, and changes released in November 2022:
 

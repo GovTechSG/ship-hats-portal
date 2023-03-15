@@ -1,4 +1,3 @@
-# January 2023
 
 The following section contains the new features, enhancements, and changes released in January 2023:
 

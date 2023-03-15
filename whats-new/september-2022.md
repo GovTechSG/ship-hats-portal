@@ -1,4 +1,3 @@
-# September 2022
 
 The following section contains the new features, enhancements, and changes released in September 2022:
 

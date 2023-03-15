@@ -1,4 +1,3 @@
-# October 2022
 
 The following section contains the new features, enhancements, and changes released in October 2022:
 
