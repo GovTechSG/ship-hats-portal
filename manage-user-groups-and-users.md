@@ -85,12 +85,18 @@ You can manage users for the following tools:
 1. If you want to manage users for **Jira**, **Confluence**, or **SonarQube**, just follow the on-screen instructions. 
 1. If you want to manage users for **NexusIQ**, within the **Manage Users** tab: 
     - In the **User** drop-down, select the required user. 
+    
+    >**Note:** Users will appear here only if they were added in the [TechBiz portal](https://portal.techbiz.suite.gov.sg/).
+
     - In **Select Role/Permission**, select the required role or permission, and then click **Update**. 
 
     The roles or permissions are updated in the portal as well as respective tools.
 
 1. If you want to manage users for **Fortify on Demand**, within the **Manage Users** tab:   
     - To **Manage user access**, select values in the **User(s)** field.  
+    
+       >**Note:** Users will appear here only if they were added in the [TechBiz portal](https://portal.techbiz.suite.gov.sg/).
+
     - To **Manage user role**, select values in the **User** and **Role** fields. 
     
     The roles or permissions are updated in the portal as well as respective tools.

@@ -66,6 +66,8 @@ As an SA/PA, you can create user groups based on quota specified for your projec
 
 1. In **Add users**, select additional users, and then click **Add**.  
 
+   >**Note:** Users will appear here only if they were added in the [TechBiz portal](https://portal.techbiz.suite.gov.sg/).
+
    ![add users](./images/user-groups-add-users.png)
 
    The newly added user appears under the **Name** column.

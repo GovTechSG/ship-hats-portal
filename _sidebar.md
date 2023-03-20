@@ -3,7 +3,7 @@
   - [Overview](ship-hats-portal-overview)
   - [What's New](./whats-new/what-s-new.md)
   - [User roles and permissions](user-roles-and-permissions) 
-**Portal**  
+**Onboard and Access**  
   - [Onboard to portal](onboarding-to-portal)
   - [Access portal](access-ship-hats-portal)  
 **Users**  
