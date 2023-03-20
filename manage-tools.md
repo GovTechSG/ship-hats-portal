@@ -127,7 +127,9 @@ Subscription Admin (SA) and Project Admin (PA) can customise the project keys wh
 
 ## Remove project tools
 
-As a Subscription Admin or a Project Admin, you can **remove a tool or an app** when it is not required. You can remove the following tools: 
+As a Subscription Admin or a Project Admin, you can **remove a tool or an app** when it is not required. You **[must take backup](#to-take-backup-of-a-project-tool)** before removing a project tool. 
+
+You can remove the following tools: 
 
 - GitLab
 - Confluence
@@ -136,9 +138,21 @@ As a Subscription Admin or a Project Admin, you can **remove a tool or an app** 
 - Nexus IQ
 - SonarQube
 
+## To take backup of a project tool
+
+As a Project Admin (PA), you can use the information in the following table based on your requirement:
+
+|Tool|What to do|
+|---|---|
+**Confluence**|Export space as XML|
+**Jira**|Export project with issues as XML|
+**GitLab**|Clone Repos and Pipelines|
+**Nexus IQ**|Download the required reports
+**Nexus Repo**|Download the required artifacts
 
 ### To remove a project tool
 
+1. Make sure that you **[take backup or download the required artifacts](#to-take-backup-of-a-project-tool)**.
 1. From the side menu, click **Workspace**.
     
     The **Systems** screen appears, displaying all the systems added to your subscription.
