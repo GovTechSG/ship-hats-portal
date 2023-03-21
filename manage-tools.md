@@ -17,15 +17,9 @@ SA or PA can add the required project tools as explained below. You can add tool
 
 1. From the side menu, click **Workspace**.
     
-    The **Systems** screen appears, displaying all the systems added to your subscription.
+    The `<Subscription name>` screen appears, displaying all the systems added to your subscription.
 
     ![view systems](./images/view-systems.png)
-
-1. Select the System for which you want to view projects. 
-
-    The **Projects** screen appears, displaying all the previously added projects. 
-
-    ![all projects](./images/projects-all.png)
 
 1. Locate the project to which you want to add a tool, and then click the project.
 
@@ -69,15 +63,9 @@ Subscription Admin (SA) and Project Admin (PA) can customise the project keys wh
 
 1. From the side menu, click **Workspace**.
     
-    The **Systems** screen appears, displaying all the systems added to your subscription.
+    The `<Subscription name>` screen appears, displaying all the systems added to your subscription.
 
     ![view systems](./images/view-systems.png)
-
-1. Select the System for which you want to view projects. 
-
-    The **Projects** screen appears, displaying all the previously added projects. 
-
-    ![all projects](./images/projects-all.png)
 
 1. Locate the project to which you want to add a tool with customised key, and then click the project.
 
@@ -106,15 +94,9 @@ Subscription Admin (SA) and Project Admin (PA) can customise the project keys wh
 
 1. From the side menu, click **Workspace**.
     
-    The **Systems** screen appears, displaying all the systems added to your subscription.
+    The `<Subscription name>` screen appears, displaying all the systems added to your subscription.
 
     ![view systems](./images/view-systems.png)
-
-1. Select the System for which you want to view projects. 
-
-    The **Projects** screen appears, displaying all the previously added projects. 
-
-    ![all projects](./images/projects-all.png)
 
 1. Locate the project for which you want to view tools, and then click the project.
 
@@ -155,15 +137,9 @@ As a Project Admin (PA), you can use the information in the following table base
 1. Make sure that you **[take backup or download the required artifacts](#to-take-backup-of-a-project-tool)**.
 1. From the side menu, click **Workspace**.
     
-    The **Systems** screen appears, displaying all the systems added to your subscription.
+    The `<Subscription name>` screen appears, displaying all the systems added to your subscription.
 
     ![view systems](./images/view-systems.png)
-
-1. Select the System for which you want to view projects. 
-
-    The **Projects** screen appears, displaying all the previously added projects. 
-
-    ![all projects](./images/projects-all.png)
 
 1. Locate the project to which you want to remove a tool, and then click the project.
 

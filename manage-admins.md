@@ -20,15 +20,9 @@ Subscription Admins can add Project Admins using the SHIP-HATS portal. When crea
 
     > **Tip:** If needed, [Switch account](manage-account).
 
-    The **Systems** screen appears, displaying all the systems added to your subscription.
+    The `<Subscription name>` screen appears, displaying all the systems added to your subscription.
 
     ![view systems](./images/view-systems.png)
-
-1. Select the System. 
-
-    The **Projects** screen appears, displaying all the previously added projects. 
-
-    ![all projects](./images/projects-all.png)
 
 1. Locate the project for which you want to add a Project Admin, and then click three dots for more options.
 

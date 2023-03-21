@@ -14,15 +14,9 @@ This feature is applicable only for FOD.
 
 1. From the side menu, click **Workspace**.
     
-    The **Systems** screen appears, displaying all the systems added to your subscription.
+    The `<Subscription name>` screen appears, displaying all the systems added to your subscription.
 
     ![view systems](./images/view-systems.png)
-
-1. Select the required System. 
-
-    The **Projects** screen appears, displaying all the previously added projects. 
-
-    ![all projects](./images/view-projects.png)
 
 1. Locate the required project, and then click the project.
 
@@ -47,15 +41,9 @@ This feature is applicable only for FOD.
 
 1. From the side menu, click **Workspace**.
     
-    The **Systems** screen appears, displaying all the systems added to your subscription.
+    The `<Subscription name>` screen appears, displaying all the systems added to your subscription.
 
     ![view systems](./images/view-systems.png)
-
-1. Select the required System. 
-
-    The **Projects** screen appears, displaying all the previously added projects. 
-
-    ![all projects](./images/view-projects.png)
 
 1. Locate the required project, and then click the project.
 
@@ -77,15 +65,9 @@ This feature is applicable only for FOD.
 
 1. From the side menu, click **Workspace**.
     
-    The **Systems** screen appears, displaying all the systems added to your subscription.
+    The `<Subscription name>` screen appears, displaying all the systems added to your subscription.
 
     ![view systems](./images/view-systems.png)
-
-1. Select the required System. 
-
-    The **Projects** screen appears, displaying all the previously added projects. 
-
-    ![all projects](./images/view-projects.png)
 
 1. Locate the required project, and then click the project.
 

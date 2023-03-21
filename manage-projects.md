@@ -13,17 +13,12 @@ Subscription Admin (SA) can create new projects in SHIP-HATS and manage them. SA
 
 1. From the side menu, click **Workspace**.
     
-    The **Systems** screen appears, displaying all the systems added to your subscription.
+    The `<Subscription name>` screen appears, displaying all the systems added to your subscription.
 
     ![view systems](./images/view-systems.png)
 
-1. Select the System to which you want to add a project. 
-
-    The **Projects** screen appears, displaying all the previously added projects. 
-
-    ![all projects](./images/view-projects.png)
-
-1. Click **Create Project**.  
+    > **Tip:** You can also view the 
+1. Select the System to which you want to add a project, and then click **+ Project**.  
 
     ![create project](./images/create-new-project.png)
 
@@ -35,6 +30,7 @@ Subscription Admin (SA) can create new projects in SHIP-HATS and manage them. SA
     |**Project Description**| Specify details of the project. 
     |**Project Admin 1**| Select Project Admin from the drop-down list. Users will appear here only if they were added in the [TechBiz portal](https://portal.techbiz.suite.gov.sg/).<!--If you want to invite new users, click **Invite here**. If *First Name* and *Last Name* were not provided when creating a new user account, email address will appear in the drop-down list.-->
     |**Project Admin 2**| This is an optional field. Select a second Project Admin from the drop-down list. Users will appear here only if they were added in the [TechBiz portal](https://portal.techbiz.suite.gov.sg/).<!--If *First Name* and *Last Name* were not provided when creating a new user account, email address will appear in the drop-down list.--> 
+
 1. Click **Create Project**.  
     
     A message appears, indicating **Project Created Successfully**. The created project appears on the **Projects** screen.
@@ -67,15 +63,13 @@ SA and PAs of a subscription account can view all the projects of the subscripti
 
 1. From the side menu, click **Workspace**.
     
-    The **Systems** screen appears, displaying all the systems added to your subscription.
+    The `<Subscription name>` screen appears, displaying all the systems added to your subscription.
 
     ![view systems](./images/view-systems.png)
 
 1. Select the System for which you want to view projects. 
 
-    The **Projects** screen appears, displaying all the previously added projects. 
-
-    ![all projects](./images/view-projects.png)
+    The **Projects** appear in a tabular format. You can choose to view the projects list in **Card view** or **Table view**.
 
 <!--1. Click **Manage** to view tools that are currently added to the project.-->
 
@@ -89,15 +83,11 @@ Subscription Admin can remove a project if no tool has been added to it. If Tool
 
     > **Tip:** If needed, [Switch account](manage-account).
 
-    The **Systems** screen appears, displaying all the systems added to your subscription.
+    The `<Subscription name>` screen appears, displaying all the systems added to your subscription.
 
     ![view systems](./images/view-systems.png)
 
 1. Select the System for which you want to remove a project. 
-
-    The **Projects** screen appears, displaying all the previously added projects. 
-
-    ![all projects](./images/projects-all.png)
 
 1. Locate the project that you want to remove, and then click three dots for more options.
 
@@ -107,7 +97,7 @@ Subscription Admin can remove a project if no tool has been added to it. If Tool
 
     A **Delete project** pop up appears. 
 
-    ![delete project](./images/delete-project.png)
+    ![delete project](./images/delete-project.png ':size=80%')
 
 1. If you are sure that you want to delete the project, click **I acknowledge that I have done all the necessary backup for the project**, and then click **Delete**.
 
@@ -119,3 +109,5 @@ Subscription Admin can remove a project if no tool has been added to it. If Tool
 - [Manage applications](manage-applications)
 - [Manage user groups & users within projects](manage-user-groups-and-users)
 - [Manage tokens](manage-tokens) 
+
+<!--The **Projects** screen appears, displaying all the previously added projects. ![all projects](./images/view-projects.png)-->

@@ -25,15 +25,9 @@ By default, when you add a project tool, an application is added. However, you c
 
 1. From the side menu, click **Workspace**.
     
-    The **Systems** screen appears, displaying all the systems added to your subscription.
+    The `<Subscription name>` screen appears, displaying all the systems added to your subscription.
 
     ![view systems](./images/view-systems.png)
-
-1. Select the required System. 
-
-    The **Projects** screen appears, displaying all the previously added projects. 
-
-    ![all projects](./images/view-projects.png)
 
 1. Locate the required project, and then click the project.
 
@@ -55,15 +49,9 @@ You can rename an app for the following project tool:
 
 1. From the side menu, click **Workspace**.
     
-    The **Systems** screen appears, displaying all the systems added to your subscription.
+    The `<Subscription name>` screen appears, displaying all the systems added to your subscription.
 
     ![view systems](./images/view-systems.png)
-
-1. Select the required System. 
-
-    The **Projects** screen appears, displaying all the previously added projects. 
-
-    ![all projects](./images/view-projects.png)
 
 1. Locate the required project, and then click the project.
 
@@ -94,15 +82,9 @@ You can remove app from the following project tools:
 
 1. From the side menu, click **Workspace**.
     
-    The **Systems** screen appears, displaying all the systems added to your subscription.
+    The `<Subscription name>` screen appears, displaying all the systems added to your subscription.
 
     ![view systems](./images/view-systems.png)
-
-1. Select the required System. 
-
-    The **Projects** screen appears, displaying all the previously added projects. 
-
-    ![all projects](./images/view-projects.png)
 
 1. Locate the required project, and then click the project.
 
@@ -119,4 +101,3 @@ You can remove app from the following project tools:
 1. Enter the requested information, and then click **Proceed**.  
     The selected app is removed.  
     If this the last app for the tool, the project tool is also removed. 
-

@@ -27,15 +27,9 @@ You can manage user groups and permissions/roles for the following tools:
 
 1. From the side menu, click **Workspace**.
     
-    The **Systems** screen appears, displaying all the systems added to your subscription.
+    The `<Subscription name>` screen appears, displaying all the systems added to your subscription.
 
     ![view systems](./images/view-systems.png)
-
-1. Select the required System. 
-
-    The **Projects** screen appears, displaying all the previously added projects. 
-
-    ![all projects](./images/view-projects.png)
 
 1. Locate the required project, and then click the project.
 
@@ -66,15 +60,9 @@ You can manage users for the following tools:
 
 1. From the side menu, click **Workspace**.
     
-    The **Systems** screen appears, displaying all the systems added to your subscription.
+    The `<Subscription name>` screen appears, displaying all the systems added to your subscription.
 
     ![view systems](./images/view-systems.png)
-
-1. Select the required System. 
-
-    The **Projects** screen appears, displaying all the previously added projects. 
-
-    ![all projects](./images/view-projects.png)
 
 1. Locate the required project, and then click the project.
 
