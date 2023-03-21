@@ -87,8 +87,6 @@ Subscription Admin can remove a project if no tool has been added to it. If Tool
 
     ![view systems](./images/view-systems.png)
 
-1. Select the System for which you want to remove a project. 
-
 1. Locate the project that you want to remove, and then click three dots for more options.
 
     ![more options](./images/projects.png)
