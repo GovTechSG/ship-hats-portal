@@ -5,7 +5,7 @@ The following section contains the new features, enhancements, and changes relea
 |---|---|
 |**SHIP-HATS Portal Enhancements**|<ul><li>**Left Navigation:** You can now view **Projects without system** under **Workspace**. </li><li>**Fortify on Demand:** You can now [renew FOD token](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-tokens) and [remove FOD app](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-applications).</li><li>**Unsubscribed tools:** If you are a SHIP-HATS 1.0 user and want to remove the tools that you have not subscribed in TechBiz, you can [use the SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-tools) to remove the **Unsubscribed tools**.  </li><li>**Workspace UX:** The Workspace UX has been enhanced to display Systems and Projects in a tabular format. You can choose to view the projects list in a Card view or Table view.</li></ul>
 |**Extended Code Analysis (XCA)**|[Extended Code Analysis (XCA)](#extended-code-analysis-xca) has been integrated with SHIP-HATS 2.0 GitLab Dedicated platform. 
-|**Security Patching and Update**| <ul><li>Confluence</li><li>Jira</li><li>Nexus IQ</li><li>Nexus Repo</li><li>Sonarqube</li></ul>|  
+|**Security Patching and Update**| <ul><li>Confluence</li><li>Jira</li><li>Nexus IQ</li><li>Nexus Repo</li><li>SonarQube</li></ul>|  
 |**Version Upgrade**|For latest supported version of various tools, refer to the [Tools > Supported Tools and Versions](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/tools-overview?id=supported-tools-and-versions).|
 
 ### Extended Code Analysis (XCA)
