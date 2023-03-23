@@ -1,27 +1,23 @@
-# SHIP-HATS Documentation
+# SHIP-HATS Portal Documentation
 
 <!--Visit https://go.gov.sg/ship-hats-docs for all SHIP-HATS documentation -->
 
 Welcome to the SHIP-HATS documentation!
 
-|||
-|---|---|
-|**[New to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/)**<br><br>Start learning about SHIP-HATS features and functionality.|**[Choose a subscription](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/subscription)**<br><br>Determine which subscription plan works for you.
-**[Onboard to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/onboard-to-ship-hats)** <br><br>Subscribe and onboard to SHIP-HATS.|**[Manage SHIP-HATS Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/)**<br><br>Use SHIP-HATS portal to add projects, set Project Administrators, and manage users. 
-|**[Architecture](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/architecture)**<br><br>Learn about SHIP-HATS architecture|**[Contribute to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/contribute)**<br><br>Create new [pipeline images](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/pipeline-coe) and [pipeline templates](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/pipeline-templates).
-**[SHIP-HATS releases](https://docs.developer.tech.gov.sg/docs/ship-hats-whats-new/whats-new/what-s-new)**<br><br>See what's new in SHIP-HATS.|**[Migrate to SHIP-HATS 2.0](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/)**<br><br>Migrate your SHIP-HATS to the latest version.|
-**[Support](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request)**<br><br>Get in touch with our support team.|**[Scheduled Maintenance](https://docs.developer.tech.gov.sg/docs/ship-hats-support/maintenance-schedule)**<br><br>Maintenance schedule for various tools and services within SHIP-HATS.
+!> The **SHIP-HATS Portal** documentation is intended for the **Subscription Administrator (SA)** & **Project Administrator (PA)** to onboard to the [SHIP-HATS 2.0 portal](https://portal.ship.gov.sg/), add projects, set Project Administrators, and manage SHIP-HATS resources.
 
 
+## Popular Topics
 
-## Popular topics
 Have a look at some of our most popular topics:
 
 |||
 |---|---|
-**[Runners](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/runners)**<br><br>Learn how Runners run the CI/CD pipelines and types of runners supported.|**[Set up Runners](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/gitlab-runners)**<br><br>Prerequisites and steps to set up runners.
-**[Pipeline Templates](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/pipeline-templates)**<br><br>SHIP-HATS Pipeline templates are reusable configuration files that developers can use to configure instead of building from the scratch.|**[Architecture]()**<br><br>
-**[AWS VPC Endpoint](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/aws-vpc-endpoint)**<br><br>Connect to SHIP-HATS via AWS VPC Endpoint|**[IPSec Tunnel](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/ipsec-tunnel)**<br><br>Connect to SHIP-HATS via IPSec Tunnel
+|**[Onboard to SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/onboarding-to-portal)**<br><br>Onboard to SHIP-HATS portal and configure your Tools|**[Access SHIP-HATS portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/access-ship-hats-portal)**<br><br>Log in to the SHIP-HATS portal using TechPass|
+|**[Onboard Users](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/onboarding-users)**<br><br> Onboard users via the TechBiz portal. |**[Users Groups & Users in a Project](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-user-groups-and-users)**<br><br>Add user groups and users to your projects.
+|**[Create new projects](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-projects)**<br><br> Create new projects and add project tools, user groups, and users.|**[Add project admins](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-admins)**<br><br>Add project admins to your projects. |
+|**[Tokens](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-tokens)**<br><br>View, retrieve, and refresh tokens|**[Add Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-tools)**<br><br>Add tools subscribed in TechBiz portal to your projects.|
+
 
 ## Training
 
@@ -36,6 +32,15 @@ Have a look at some of our most popular topics:
 **[Raise a ticket](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request)**<br><br>Get in touch with our support team.|**[Support Options](https://docs.developer.tech.gov.sg/docs/ship-hats-support/support)**<br><br>Available support options, operating hours, and pricing for support. 
 **[Scheduled Maintenance](https://docs.developer.tech.gov.sg/docs/ship-hats-support/maintenance-schedule)**<br><br>Maintenance schedule for various tools and services within SHIP-HATS.|**[GitLab Policies](https://docs.developer.tech.gov.sg/docs/ship-hats-support/gitlab)**<br><br>GitLab Terms and Policies.
 
+## Technical Topics
+|||
+|---|---|
+|**[SHIP-HATS Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/tools-overview)**<br><br> View tools integrated with SHIP-HATS and the supported versions.	|**[Frequently Asked Questions on Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/tools-faqs)**<br><br> Get answers to common questions on Tools.
+**[Runners](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/runners)**<br><br>Learn how Runners run the CI/CD pipelines and types of runners supported.|**[Set up Runners](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/gitlab-runners)**<br><br>Prerequisites and steps to set up runners.
+**[Pipeline Templates](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/pipeline-templates)**<br><br>SHIP-HATS Pipeline templates are reusable configuration files that developers can use to configure instead of building from the scratch.|**[Architecture]()**<br><br>
+**[AWS VPC Endpoint](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/aws-vpc-endpoint)**<br><br>Connect to SHIP-HATS via AWS VPC Endpoint|**[IPSec Tunnel](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/ipsec-tunnel)**<br><br>Connect to SHIP-HATS via IPSec Tunnel
+
+
 ## Migrating from SHIP-HATS 1.0
 
 If you are migrating from SHIP-HATS 1.0 to SHIP-HATS 2.0, the following information is useful:
@@ -49,52 +54,34 @@ If you are migrating from SHIP-HATS 1.0 to SHIP-HATS 2.0, the following informat
 
 ## Contributing to SHIP-HATS
 
-SHIP-HATS Community Edition is open source and SHIP-HATS Enterprise Edition is open-core.
 Learn how to contribute to SHIP-HATS with the following resources:
 
 |||
 |---|---|
 **[Pipeline COE](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/pipeline-coe)**<br><br>Contribute to pipeline images|**[Pipeline Templates](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/pipeline-templates)**<br><br>Contribute to pipeline templates
 
-<!--
+
+## Additional Resources
+
+Following additional documentation resources are available:
+
 |Document|Audience|Description|
 |---|---|---|
-|**[SHIP-HATS Migration](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/)**|Existing users|Use this documentation to plan migration of your systems from SHIP-HATS 1.0 to SHIP-HATS 2.0.|
-|**[SHIP-HATS Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/)**|Subscription Administrator (SA) <br><br> Project Administrator (PA)|Use this documentation to onboard to the SHIP-HATS portal, add projects, set Project Administrators, and manage users. |
+|**[Getting Started with SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/)**|Subscription Administrator (SA)|Use this documentation to learn about SHIP-HATS, onboard to SHIP-HATS, set yourself as a Subscription |
 |**[SHIP-HATS Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/)**|Tools Administrators and Developers at Agencies|Use this documentation to learn about tools integrated with SHIP-HATS|
 |**[SHIP-HATS Support](https://docs.developer.tech.gov.sg/docs/ship-hats-support/)**|All|Use this documentation to understand our Support Offerings and learn about Terms & Conditions. 
--->
-
-<!--
-# SHIP-HATS 2.0 documentation
-
-SHIP-HATS 2.0 provides you with the following documentation resources to assist you in onboarding to SHIP-HATS and get started with your CI/CD pipeline.  
-
-|Document|Audience|Description|
-|---|---|---|
 |**[SHIP-HATS Migration](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/)**|Existing users|Use this documentation to plan migration of your systems from SHIP-HATS 1.0 to SHIP-HATS 2.0.|
-|**[Getting Started](ship-hats-overview)**|Subscription Administrator (SA)|Use this documentation to learn about SHIP-HATS, subscribe to SHIP-HATS, set yourself as a Subscription Administrator.|
-|**[Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/ship-hats-portal-overview)**|Subscription Administrator (SA) <br><br> Project Administrator (PA)|Use this documentation to onboard to the SHIP-HATS portal, add projects, set Project Administrators, and manage users. |
-|**[Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/)**|Tools Administrators and Developers at Agencies|Use this documentation to learn about tools integrated with SHIP-HATS|
--->
 
 <!--
-|Document|Audience|Description|
-|---|---|---|
-|**[Getting Started](ship-hats-overview)**|Subscription Administrator (SA)|Use this documentation to learn about SHIP-HATS, onboard to SHIP-HATS, set yourself as a Subscription Administrator|
-|**[Portal](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/#/)**|Subscription Administrator (SA) <br><br> Project Administrator (PA)|Use this documentation to onboard to the SHIP-HATS portal, add projects, set Project Administrators, and manage users. |
-|**[Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/)**|Tools Administrators and Developers at Agencies|Use this documentation to learn about tools integrated with SHIP-HATS|
--->
-
-<!--
-### Subscription account
-Learn more about SHIP-HATS account management
-
-
-|Topic|Description|
+|||
 |---|---|
-Subscription account|Manage your account.
-Authentication|Account security with two-factor authentication, set up your SSH keys, and deploy keys for secure access to your projects.
-User settings|Manage your user settings, two factor authentication, and more.
-User permissions|Learn what each role in a project can do.
+|**[New to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/)**<br><br>Start learning about SHIP-HATS features and functionality.|**[Choose a subscription](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/subscription)**<br><br>Determine which subscription plan works for you.
+**[Onboard to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/onboard-to-ship-hats)** <br><br>Subscribe and onboard to SHIP-HATS.|**[Manage SHIP-HATS Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/)**<br><br>Use SHIP-HATS portal to add projects, set Project Administrators, and manage users. 
+|**[Architecture](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/architecture)**<br><br>Learn about SHIP-HATS architecture|**[Contribute to SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/contribute)**<br><br>Create new [pipeline images](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/pipeline-coe) and [pipeline templates](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/pipeline-templates).
+**[SHIP-HATS releases](https://docs.developer.tech.gov.sg/docs/ship-hats-whats-new/whats-new/what-s-new)**<br><br>See what's new in SHIP-HATS.|**[Migrate to SHIP-HATS 2.0](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/)**<br><br>Migrate your SHIP-HATS to the latest version.|
+**[Support](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request)**<br><br>Get in touch with our support team.|**[Scheduled Maintenance](https://docs.developer.tech.gov.sg/docs/ship-hats-support/maintenance-schedule)**<br><br>Maintenance schedule for various tools and services within SHIP-HATS.
+
+
+
+## Popular topics
 -->
