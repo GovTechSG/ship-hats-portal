@@ -18,19 +18,18 @@ Have a look at some of our most popular topics:
 |**[Create new projects](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-projects)**<br><br> Create new projects and add project tools, user groups, and users.|**[Add project admins](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-admins)**<br><br>Add project admins to your projects. |
 |**[Tokens](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-tokens)**<br><br>View, retrieve, and refresh tokens|**[Add Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-portal/manage-tools)**<br><br>Add tools subscribed in TechBiz portal to your projects.|
 
-
-## Training
-
-|||
-|---|---|
-**[Learning Events](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/learning-events)**<br><br>All upcoming and past events|**[Self-paced Trainings Support](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/self-paced-trainings/overview)**<br><br>To ensure we support at scale, anyone can access Self-paced trainings.
-
 ## SHIP-HATS Support
 
 |||
 |---|---|
 **[Raise a ticket](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request)**<br><br>Get in touch with our support team.|**[Support Options](https://docs.developer.tech.gov.sg/docs/ship-hats-support/support)**<br><br>Available support options, operating hours, and pricing for support. 
 **[Scheduled Maintenance](https://docs.developer.tech.gov.sg/docs/ship-hats-support/maintenance-schedule)**<br><br>Maintenance schedule for various tools and services within SHIP-HATS.|**[GitLab Policies](https://docs.developer.tech.gov.sg/docs/ship-hats-support/gitlab)**<br><br>GitLab Terms and Policies.
+
+## Training
+
+|||
+|---|---|
+**[Learning Events](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/learning-events)**<br><br>All upcoming and past events|**[Self-paced Trainings Support](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/self-paced-trainings/overview)**<br><br>To ensure we support at scale, anyone can access Self-paced trainings.
 
 ## Technical Topics
 |||
