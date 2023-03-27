@@ -7,7 +7,6 @@
   - [Onboard to portal](onboarding-to-portal)
   - [Access portal](access-ship-hats-portal)  
 **Users**  
-  - [Onboard users](onboarding-users)
   - [Manage users](manage-users)
   - [Manage user groups](manage-user-groups)
   - [Users self help](users-self-help)  

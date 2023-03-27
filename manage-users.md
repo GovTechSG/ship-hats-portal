@@ -2,10 +2,20 @@
 
 **Topics**
 
+- [Onboard Users](#onboard-users)
 - [View users](#view-users)
 - [Generate user report](#generate-user-report)
+- [Offboard Users](#offboard-users)
 
+## Onboard Users
 
+To onboard users, you must log in to the [TechBiz portal](https://portal.techbiz.suite.gov.sg/). 
+
+You can complete following activities:
+- Invite users
+- Approve new users
+
+For more information, refer to the [TechBiz documentation](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/invite-users)
 
 ## View users
 
@@ -88,9 +98,18 @@ You can generate a report to view all details for the active and removed users.
    **Removal Reason**|Indicates the reason for removal of a user as entered by the SA or PA.
 
 
+## Offboard Users
+
+To offboard or unsubscribe a user, you must log in to the [TechBiz portal](https://portal.techbiz.suite.gov.sg/) and remove the user from your subscription. 
+
+For more information, refer to the [Manage user access for subscribed SGTS products](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/manage-user-access-subscribed-sgts-products) topic in the [TechBiz](https://docs.developer.tech.gov.sg/docs/techbiz-documentation/) documentation. 
+
+If you want to offboard or unsubscribe a tool, refer to [Manage tools](manage-tools) documentation. 
+
 ### Related Topics
 - [Manage user groups](manage-user-groups)
 - [Manage user groups & users](manage-user-groups-and-users) 
+- [Manage tools](manage-tools)
 
 
 

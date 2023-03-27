@@ -1,4 +1,5 @@
-# Onboard Users
+This content has moved. For latest content, go to [Manage Users](manage-users) documentation.
+<!--# Onboard Users
 
 To onboard users, you must log in to the [TechBiz portal](https://portal.techbiz.suite.gov.sg/). 
 
@@ -14,7 +15,7 @@ For more information, refer to the [TechBiz documentation](https://docs.develope
 ### Related Topics
 - [Manage Users](manage-users)
 
-
+-->
 
 <!--
 This section describes the following:
