@@ -17,7 +17,7 @@ Subscription Admin (SA) can create new projects in SHIP-HATS and manage them. SA
 
     ![view systems](./images/view-systems.png)
 
-    > **Tip:** You can also view the 
+    > **Tip:** You can also switch between **Card view** and **Table view**. 
 1. Select the System to which you want to add a project, and then click **+ Project**.  
 
     ![create project](./images/create-new-project.png)
@@ -35,7 +35,7 @@ Subscription Admin (SA) can create new projects in SHIP-HATS and manage them. SA
     
     A message appears, indicating **Project Created Successfully**. The created project appears on the **Projects** screen.
 
-    ![Projects](./images/projects-all.png)
+<!--![Projects](./images/projects-all.png)-->
     
 <!--with **Subscribed Tools** and **Not Subscribed Tools** sections based on your subscription.-->
 
