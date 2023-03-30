@@ -25,10 +25,13 @@
 &nbsp;
 
 ---
+
 **Additional Resources**
-  - [Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/tools-overview)
-  - [Getting Started](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/)
-  - [Migration](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/)
+  - [SHIP-HATS Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-tools/#/tools-overview) 
+  - [SHIP-HATS Support](https://docs.developer.tech.gov.sg/docs/ship-hats-support/)
+  - [Getting Started with SHIP-HATS](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/)
+  - [Migration from 1.0 to 2.0](https://docs.developer.tech.gov.sg/docs/ship-hats-migration/)  
+
 
 <!--
   - [new Customer SH to GL](sh-to-gl)
