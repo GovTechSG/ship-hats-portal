@@ -7,6 +7,33 @@
 - [View project tools](#view-project-tools)
 - [Remove project tools](#remove-project-tools)
 
+## Add project tools
+
+[Add project tool](./snippets/provision-tool.md ':include')
+
+## Add project tool with customised project key
+
+[Add project tool with customised project key](./snippets/provision-tool-customized-key.md ':include')
+
+## View project tools
+
+[View Project Tools](./snippets/view-project-tools.md ':include')
+
+## Remove project tools
+
+[Remove project tools](./snippets/remove-project-tools.md ':include')
+
+
+
+<!--# Manage tools
+
+**Topics**
+
+- [Add project tools](#add-project-tools)
+- [Add project tool with customised project key](#add-project-tool-with-customised-project-key)
+- [View project tools](#view-project-tools)
+- [Remove project tools](#remove-project-tools)
+
 
 ## Add project tools
 
@@ -33,7 +60,8 @@ SA or PA can add the required project tools as explained below. You can add tool
 
     |Available Tools (Base)|Steps|
     |---|---|
-    |**GitLab**|Make sure that at least 1 Project Admin has a GitLab account and is added to the TechPass group. Provide value in the **GitLab Group Name** field. <!--<br>If you cannot find your system in the drop-down list, follow the steps to [Declare a DGP System](declare-dgp-systems).--> <br><br>![Add GitLab](./images/tool-gitlab-add-new.png)
+    |**GitLab**|Make sure that at least 1 Project Admin has a GitLab account and is added to the TechPass group. Provide value in the **GitLab Group Name** field. <!--<br>If you cannot find your system in the drop-down list, follow the steps to [Declare a DGP System](declare-dgp-systems).-->
+<!--<br><br>![Add GitLab](./images/tool-gitlab-add-new.png)
     |**Nexus IQ**|Provide values in the **Application Name** and **Application ID** fields.|
     |**Nexus Repo**|Submit a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11/) to add this tool.
     |**pCloudy**|The **Add New pCloudy Application** popup appears, displaying the allowed number of parallel shared mobile device tests.|
@@ -155,3 +183,4 @@ As a Project Admin (PA), you can use the information in the following table base
 
     The selected app is removed. If this the last or only app for the tool, the project tool is also removed. 
 
+-->
