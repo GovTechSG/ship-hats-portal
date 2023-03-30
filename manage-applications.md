@@ -10,6 +10,31 @@
 
 ## Add applications to a project tool
 
+[Add applications to a project tool](./snippets/add-applications.md ':include')
+
+## Rename application
+
+[Rename application](./snippets/rename-applications.md ':include')
+
+
+## Remove applications from a project tool
+
+[Remove applications from a project tool](./snippets/remove-applications.md ':include')
+
+
+
+<!--# Manage applications
+
+**Topics**
+
+- [Add applications to a project tool](#add-applications-to-a-project-tool)
+- [Rename application](#rename-application)
+- [Remove applications from a project tool](#remove-applications-from-a-project-tool)
+
+
+
+## Add applications to a project tool
+
 By default, when you add a project tool, an application is added. However, you can add additional applications to the following tools:
 
 - Fortify on Demand
@@ -101,3 +126,4 @@ You can remove app from the following project tools:
 1. Enter the requested information, and then click **Proceed**.  
     The selected app is removed.  
     If this the last app for the tool, the project tool is also removed. 
+-->
