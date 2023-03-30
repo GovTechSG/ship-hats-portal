@@ -2,14 +2,41 @@
 
 **Topics**
 
+- [Add/Remove user groups within a project tool](#add-user-groups-within-a-project-tool)
+- [Add/Remove users within a project tool](#add-users-within-a-project-tool)
+
+<!--- [Remove user groups from a project tool](#remove-user-groups-from-a-project-tool)-->
+
+## Add/Remove user groups within a Project Tool
+
+[Add user groups within a project tool](./snippets/add-remove-user-groups-in-project-tool.md ':include')
+
+## Add/Remove users within a Project Tool
+
+[Add users within a Project Tool](./snippets/add-remove-users-in-project-tool.md ':include')
+
+<!--## Remove user groups from a Project Tool
+
+[Remove user groups from a project tool]()-->
+
+
+### Related topics
+
+- [Manage users](manage-users)
+- [Manage user groups](manage-user-groups)
+
+<!--# Manage user groups & users
+
+**Topics**
+
 - [Manage user groups within a project tool](#manage-user-groups-within-a-project-tool)
-- [Manage users within a project tool](#manage-users-within-a-project-tool)
+- [Manage users within a project tool](#manage-users-within-a-project-tool)-->
 
 <!--- [Remove user groups from a project tool](#remove-user-groups-from-a-project-tool)-->
 
 
 
-## Manage user groups within a project tool
+<!--## Manage user groups within a project tool
 
 As a Subscription Admin or a Project Admin, you can manage following within a project tool or app:  
 - User groups
@@ -93,7 +120,7 @@ You can manage users for the following tools:
 
 - [Manage users](manage-users)
 - [Manage user groups](manage-user-groups)
-
+-->
 <!--
 ## Remove user groups from a project tool
 
