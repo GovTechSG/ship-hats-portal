@@ -163,8 +163,12 @@ To view and update profile as SA and PA, refer to the **[Users > Users self help
 
 -->
 
-
 ## Off-board an Account
+
+[Offboard an account](./snippets/offboard-account.md ':include')
+
+
+<!--## Off-board an Account
 
 If you are a Subscription Admin (SA), you can off-board your subscription account after the trial period has lapsed or project is coming to an end. 
 
@@ -174,11 +178,11 @@ If you are a Subscription Admin (SA), you can off-board your subscription accoun
 - Inform your users that they will not have access to tools after the off-boarding date.
 
 
-### To off-board an account
+### To off-board an account-->
 
 <!--1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).--> 
 
-1. Select an expected date to off-board. 
+<!--1. Select an expected date to off-board. 
 
     - For a subscribed account, there is a minimum commitment of 6 months stated in the service sheet. Therefore, you will be allowed to select a date after fulfilling the 6 month period only.
     - If you are on a trial account, you can select a date of your choice to off-board the account.
@@ -204,3 +208,4 @@ If you are a Subscription Admin (SA), you can off-board your subscription accoun
 - Changing the PA function is disabled 
 - User invitations are disabled 
 - After the termination date, SA or PA will not be able to view the subscription details for the off-boarded account. However, if SA or PA have other subscription accounts, they will continue to view details for these additional subscriptions accounts.
+-->

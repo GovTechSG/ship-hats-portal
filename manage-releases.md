@@ -1,5 +1,33 @@
 # Manage releases
 
+?> This feature is applicable only for FOD.
+
+**Topics**
+
+- [Add release](#add-release)
+- [Retrieve release](#retrieve-release)
+- [Rename release](#rename-release)
+- [Delete release](#delete-release)
+
+## Add release
+
+[Add release](./snippets/add-releases.md ':include')
+
+## Retrieve release
+
+[Retrieve release](./snippets/retrieve-releases.md ':include')
+
+## Rename release
+
+[Rename release](./snippets/rename-releases.md ':include')
+
+## Delete release
+
+[Delete release](./snippets/delete-releases.md ':include')
+
+
+<!--# Manage releases
+
 **Topics**
 
 - [Add release](#add-release)
@@ -86,3 +114,4 @@ This feature is applicable only for FOD.
     The release version is deleted from here as well as from the Fortify **Releases** list.
 
     >**Note**: You can reuse the name of the deleted version only after 72 hours.
+-->

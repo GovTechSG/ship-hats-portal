@@ -8,6 +8,27 @@
 
 ## View Token
 
+[View Token](./snippets/view-tokens.md ':include')
+
+## Retrieve Token
+
+[Retrieve Token](./snippets/retrieve-tokens.md ':include')
+
+## Refresh/Renew Token
+
+[Refresh/Renew Token](./snippets/renew-tokens.md ':include')
+
+
+<!--# Manage tokens
+
+**Topics**
+
+- [View token](#view-token)
+- [Retrieve token](#retrieve-token)
+- [Refresh/Renew token](#refreshrenew-token)
+
+## View Token
+
 You can:
 - [Retrieve token](#retrieve-token) for an individual tool/app by navigating to your project.
 <br>or   
@@ -41,7 +62,7 @@ You can retrieve token for the following project tools:
 
 1. To view the token, within the **Tokens** tab, click the eye icon next to **CI Token**.
 1. To copy the token, within the **Tokens** tab, click the copy icon next to **CI Token**.
-
+-->
 <!--
 1. In the **Manage Tool** window that appears, from the dropdown, select **Token & Key for pipeline**.
 
@@ -51,7 +72,7 @@ You can retrieve token for the following project tools:
     
 1. Click the **Copy** button next to the token to copy the token.
 -->
-## Refresh/Renew Token
+<!--## Refresh/Renew Token
 
 You can refresh/renew token for the following tools:
 - Fortify on Demand
@@ -75,7 +96,7 @@ You can refresh/renew token for the following tools:
 
 1. Within the **Tokens** tab, click **Refresh/Renew Token**.
 
-
+-->
 
 <!--
 # Manage releases
