@@ -4,7 +4,9 @@
 
 Welcome to the SHIP-HATS documentation!
 
-!> The **SHIP-HATS Portal** documentation is intended for the **Subscription Administrator (SA)** & **Project Administrator (PA)** to onboard to the [SHIP-HATS 2.0 portal](https://portal.ship.gov.sg/), add projects, set Project Administrators, and manage SHIP-HATS resources.
+## Audience
+
+The **SHIP-HATS Portal** documentation is intended for the **Subscription Administrator (SA)** & **Project Administrator (PA)** to onboard to the [SHIP-HATS 2.0 portal](https://portal.ship.gov.sg/), add projects, set Project Administrators, and manage SHIP-HATS resources.
 
 
 ## Popular Topics
