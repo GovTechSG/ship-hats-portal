@@ -26,6 +26,8 @@ Have a look at some of our most popular topics:
 |---|---|
 **[Raise a ticket](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request)**<br><br>Get in touch with our support team.|**[Support Options](https://docs.developer.tech.gov.sg/docs/ship-hats-support/support)**<br><br>Available support options, operating hours, and pricing for support. 
 **[Scheduled Maintenance](https://docs.developer.tech.gov.sg/docs/ship-hats-support/maintenance-schedule)**<br><br>Maintenance schedule for various tools and services within SHIP-HATS.|**[GitLab Policies](https://docs.developer.tech.gov.sg/docs/ship-hats-support/gitlab)**<br><br>GitLab Terms and Policies.
+**[Service Level Agreement (SLA)](https://docs.developer.tech.gov.sg/docs/ship-hats-support/service-level-agreement)**<br><br> Learn about SLA between Government Technology Agency and the client for all SHIP-HATS services and service levels|**[GitLab Terms and Conditions](https://docs.developer.tech.gov.sg/docs/ship-hats-support/gitlab)**<br><br>Includes fair usage policy, global settings, and terms and policies
+
 
 ## Training
 
