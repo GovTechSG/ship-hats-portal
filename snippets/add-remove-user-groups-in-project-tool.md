@@ -4,7 +4,6 @@ As a Subscription Admin or a Project Admin, you can manage following within a pr
 
 You can manage user groups and permissions/roles for the following tools:
 - Confluence
-- Fortify on Demand
 - Jira
 - Nexus IQ
 - SonarQube
