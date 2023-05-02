@@ -1,6 +1,6 @@
 This feature is applicable only for FOD.
 
-### To retrieve a release in FOD
+**To retrieve a release in FOD**
 
 
 1. From the side menu, click **Workspace**.

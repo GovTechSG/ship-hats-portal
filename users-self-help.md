@@ -11,7 +11,7 @@
 
 ## Access user profile
 
-### To access your profile
+**To access your profile**
 
 1. Log in to the [SHIP-HATS](https://portal.ship.gov.sg/) portal.
 1. Under your name, click the drop-down, and then select **View profile**. 
@@ -53,7 +53,8 @@
 
 ## Update user profile
 
-### To modify user profile
+**To modify user profile**
+
 1. Go to the [TechPass Portal](https://portal.techpass.gov.sg/secure/account/profile).
 
     > **Note:** Alternately, you can follow these steps: 
@@ -68,7 +69,7 @@
 ## Retrieve username
 If you have forgotten your SHIP-HATS username, you may retrieve it anytime following the below steps.
 
-### To retrieve SHIP-HATS username
+**To retrieve SHIP-HATS username**
 
 1. Go to [SHIP-HATS portal](https://www.ship.gov.sg/), and click **LOGIN** or click the [self-help](https://www.ship.gov.sg/selfhelp) link.  
 
@@ -83,7 +84,7 @@ If you have forgotten your SHIP-HATS username, you may retrieve it anytime follo
 ## Reset 2FA
 You can reset your 2FA for SHIP-HATS anytime by following the below steps.
 
-### To reset 2FA for SHIP-HATS
+**To reset 2FA for SHIP-HATS**
 
 1. Go to [SHIP-HATS portal](https://www.ship.gov.sg/), and click **LOGIN** or click the [self-help](https://www.ship.gov.sg/selfhelp) link.  
 
@@ -104,7 +105,7 @@ You will receive a notification stating that your SHIP-HATS 2FA has been reset, 
 ## Change password
 As per IM8 policy, all SHIP-HATS users must change their SHIP-HATS password at least once every 12 months. Users can change the password using the SHIP-HATS portal.
 
-### To change password
+**To change password**
 
 1. In the upper-right corner, hover over your profile icon/name.
 
@@ -125,7 +126,7 @@ As per IM8 policy, all SHIP-HATS users must change their SHIP-HATS password at l
 ## Reset password
 If you have forgotten your SHIP-HATS password, you may reset it anytime following the below steps.
 
-### To reset SHIP-HATS password
+**To reset SHIP-HATS password**
 
 1. Go to [SHIP-HATS portal](https://www.ship.gov.sg/), and click **LOGIN** or click the [self-help](https://www.ship.gov.sg/selfhelp) link.  
 

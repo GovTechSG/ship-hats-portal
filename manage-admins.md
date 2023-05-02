@@ -13,7 +13,7 @@ Subscription Admins can add Project Admins using the SHIP-HATS portal. When crea
 > **Note:** The number of PAs each project is entitled to is based on the [subscription tier](https://docs.developer.tech.gov.sg/docs/ship-hats-getting-started/#/subscription) quota for which the agency has subscribed.
 -->
 
-### To add a project admin
+**To add a project admin**
 
 
 1. From the side menu, click **Workspace**.
@@ -44,7 +44,7 @@ Subscription Admins can add Project Admins using the SHIP-HATS portal. When crea
 
 ## View existing project admins
 
-### To view existing project admins
+**To view existing project admins**
 
 1. Log in to [SHIP-HATS Portal](http://portal.ship.gov.sg).
 1. Click **Users** > **All users**.

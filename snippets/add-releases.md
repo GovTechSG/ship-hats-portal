@@ -1,6 +1,6 @@
 This feature is applicable only for FOD.
 
-### To add a release in FOD
+**To add a release in FOD**
 
 1. From the side menu, click **Workspace**.
     

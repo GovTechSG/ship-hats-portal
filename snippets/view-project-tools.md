@@ -1,5 +1,5 @@
 
-### To view project tools
+**To view project tools**
 
 1. From the side menu, click **Workspace**.
     

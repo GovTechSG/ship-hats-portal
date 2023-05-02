@@ -7,7 +7,7 @@ You can manage users for the following tools:
 - Nexus IQ
 - SonarQube
 
-### To add/remove users for your project tool or app
+**To add/remove users for your project tool or app**
 
 
 1. From the side menu, click **Workspace**.

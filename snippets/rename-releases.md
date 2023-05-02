@@ -1,6 +1,6 @@
 This feature is applicable only for FOD.
 
-### To rename a release in FOD
+**To rename a release in FOD**
 
 
 1. From the side menu, click **Workspace**.

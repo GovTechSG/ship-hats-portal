@@ -3,7 +3,7 @@ Subscription Admin (SA) and Project Admin (PA) can customise the project keys wh
 - Jira 
 - Confluence
 
-### To add a project with customised project key 
+**To add a project with customised project key** 
 
 1. From the side menu, click **Workspace**.
     

@@ -8,7 +8,7 @@ You can remove app from the following project tools:
 
 
 
-### To remove an app
+**To remove an app**
 
 
 1. From the side menu, click **Workspace**.

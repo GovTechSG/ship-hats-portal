@@ -3,7 +3,7 @@ You can refresh/renew token for the following tools:
 - SonarQube
 - NexusIQ
 
-### To refresh/renew a token
+**To refresh/renew a token**
 
 
 1. From the side menu, click **Workspace**.

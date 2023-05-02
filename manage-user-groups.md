@@ -17,7 +17,8 @@ Using the user groups, as an SA or a PA, you can:
 
 As an SA/PA, you can create user groups based on quota specified for your projects based on your subscription.  
 
-### To create a user group
+**To create a user group**
+
 1. From the side menu, click **Users** > **All User Groups**. 
 
    ![User groups](./images/user-groups-view.png)
@@ -45,7 +46,7 @@ As an SA/PA, you can create user groups based on quota specified for your projec
 
 ## Access user groups
 
-### To access user groups
+**To access user groups**
 
 1. From the side menu, click **Users** > **All User Groups**.  
 
@@ -57,7 +58,7 @@ As an SA/PA, you can create user groups based on quota specified for your projec
 
 ## Add users to user group
 
-### To add users to a user group
+**To add users to a user group**
 
 1. From the side menu, click **Users** > **All User Groups**.
 1. Next to the user group to which you want to add a new user, under **Actions**, select **Manage**.   
@@ -74,7 +75,8 @@ As an SA/PA, you can create user groups based on quota specified for your projec
 
 ## Remove users from user groups
 
-### To remove a user from a user group
+**To remove a user from a user group**
+
 1. From the side menu, click **Users** > **All User Groups**.
 1. Next to the user group from which you want to remove a user, under **Actions**, select **Manage**.
 
@@ -94,7 +96,8 @@ As an SA/PA, you can create user groups based on quota specified for your projec
 
 ## Remove user groups
 
-### To remove a user group
+**To remove a user group**
+
 1. From the side menu, click **Users** > **All User Groups**.
 1. Next to the user group to which you want to add a new user, under **Actions**, select **Remove group**.  
 
@@ -107,6 +110,6 @@ As an SA/PA, you can create user groups based on quota specified for your projec
 1. Click **Proceed**.  
    The user group is removed. 
 
-### Related Topics
+## Related Topics
 - [Manage users](manage-users)
 - [Manage user groups & users](manage-user-groups-and-users)

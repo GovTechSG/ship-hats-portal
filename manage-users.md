@@ -21,7 +21,7 @@ For more information, refer to the [TechBiz documentation](https://docs.develope
 
 Subscription Admin (SA) and Project Admin (PA) can view all users associated with a subscription account and their roles in their account if the users were added in the [TechBiz portal](https://portal.techbiz.suite.gov.sg/).
 
-### To view users
+**To view users**
 
 1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).  
 
@@ -65,7 +65,7 @@ Subscription Admin (SA) and Project Admin (PA) can view all users associated wit
 ## Generate user report
 You can generate a report to view all details for the active and removed users.
 
-### To generate a user report
+**To generate a user report**
 1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).   
    
    >**Tip:** Make sure that you are in the required account. If needed, [Switch account](manage-account).
@@ -106,7 +106,8 @@ For more information, refer to the [Manage user access for subscribed SGTS produ
 
 If you want to offboard or unsubscribe a tool, refer to [Manage tools](manage-tools) documentation. 
 
-### Related Topics
+## Related Topics
+
 - [Manage user groups](manage-user-groups)
 - [Manage user groups & users](manage-user-groups-and-users) 
 - [Manage tools](manage-tools)

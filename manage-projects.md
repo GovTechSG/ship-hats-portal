@@ -9,7 +9,7 @@
 
 Subscription Admin (SA) can create new projects in SHIP-HATS and manage them. SAs assign Project Admins (PA). Both SA and PA can manage the projects by adding [project tools](manage-tools), [user groups](manage-user-groups), and [users](manage-users).
 
-### To create a new project
+**To create a new project**
 
 1. From the side menu, click **Workspace**.
     
@@ -51,7 +51,7 @@ Subscription Admin (SA) can create new projects in SHIP-HATS and manage them. SA
 -->
 
 
-### What's Next 
+## What's Next 
 - [Add a Project Admin](manage-admins)
 
 
@@ -59,7 +59,7 @@ Subscription Admin (SA) can create new projects in SHIP-HATS and manage them. SA
 
 SA and PAs of a subscription account can view all the projects of the subscription account.
 
-### To view a project in a subscription account
+**To view a project in a subscription account**
 
 1. From the side menu, click **Workspace**.
     
@@ -77,7 +77,7 @@ SA and PAs of a subscription account can view all the projects of the subscripti
 
 Subscription Admin can remove a project if no tool has been added to it. If Tools have been added to a project, you must remove them before the project can be removed.
 
-### To remove a project
+**To remove a project**
 
 1. From the side menu, click **Workspace**.
 
@@ -101,7 +101,7 @@ Subscription Admin can remove a project if no tool has been added to it. If Tool
 
     The project is deleted.
 
-### Related Topics
+## Related Topics
 - [Manage Admins](manage-admins)
 - [Manage Tools](manage-tools)
 - [Manage applications](manage-applications)

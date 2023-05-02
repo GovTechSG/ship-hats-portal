@@ -1,7 +1,7 @@
 You can rename an app for the following project tool:
 - Fortify on Demand
 
-### To rename an application
+**To rename an application**
 
 
 1. From the side menu, click **Workspace**.

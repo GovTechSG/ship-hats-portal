@@ -21,7 +21,7 @@
 -->
 ## Log in via TechPass
 
-### To log in to the SHIP-HATS portal using TechPass
+**To log in to the SHIP-HATS portal using TechPass**
 
 1. Go to the [SHIP-HATS portal](https://portal.ship.gov.sg/).
 1. Click **Login with TechPass**.
@@ -76,7 +76,8 @@ Only Subscription Admin (SA) and Project Admin (PA) can access this dashboard to
 
 ## Log out 
 
-### To log out from the SHIP-HATS portal
+**To log out from the SHIP-HATS portal**
+
 - Hover over your name, and then click **Log out**.
     
 - If you are inactive for five minutes on the portal, the system prompts you with the following message. Click **Yes, Keep me signed in** to continue your session.
@@ -84,7 +85,7 @@ Only Subscription Admin (SA) and Project Admin (PA) can access this dashboard to
 - If you are inactive for 10 minutes on the portal, the system prompts you to log in again with a **Session time out!** message.
 
 
-### Related topics
+## Related topics
   - [Manage account](manage-account)
   - [Manage users](manage-users)
   - [Manage user groups](manage-user-groups)

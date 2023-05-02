@@ -7,7 +7,7 @@ You can retrieve token for the following project tools:
 - SonarQube
 
 
-### To retrieve token
+**To retrieve token**
 
 
 1. From the side menu, click **Workspace**.

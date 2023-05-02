@@ -1,6 +1,6 @@
 Subscription Admin (SA) and Project Admin (PA) can add the required project tools as explained below. You can add tools under the **Subscribed Tools** section based on the tools quota allotted for your subscription type. 
 
-### To add project tools
+**To add project tools**
 
 1. From the side menu, click **Workspace**.
     

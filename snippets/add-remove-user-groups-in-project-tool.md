@@ -8,7 +8,7 @@ You can manage user groups and permissions/roles for the following tools:
 - Nexus IQ
 - SonarQube
 
-### To add/remove user groups for your project tool or app
+**To add/remove user groups for your project tool or app**
 
 
 1. From the side menu, click **Workspace**.

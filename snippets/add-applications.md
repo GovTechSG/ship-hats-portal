@@ -9,7 +9,7 @@ By default, when you add a project tool, an application is added. However, you c
 
 
 
-### To add an application to a project tool
+**To add an application to a project tool**
 
 
 1. From the side menu, click **Workspace**.

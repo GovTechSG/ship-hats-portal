@@ -17,7 +17,7 @@ If you are a SA or PA for more than one subscription account in SHIP-HATS, you m
 - View Plan Details 
 - View Billing Info
 
-### To switch account
+**To switch account**
 
 1. Log in to the [SHIP-HATS](https://portal.ship.gov.sg/) portal.
 1. Under your name, click the drop-down, and then select **Switch account**. 
@@ -38,7 +38,7 @@ If you are a SA or PA for more than one subscription account in SHIP-HATS, you m
 
 SA and PA can view the plan details of their subscription account(s) from the dashboard view.
 
-### To view plan details of a subscription
+**To view plan details of a subscription**
 
 1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).  
     

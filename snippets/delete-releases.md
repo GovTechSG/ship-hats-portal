@@ -2,7 +2,7 @@ This feature is applicable only for FOD.
 
 There must be at least one release version in FOD, the system does not allow you to delete if there is just a single release version.
 
-### To delete a release in FOD
+**To delete a release in FOD**
 
 
 1. From the side menu, click **Workspace**.
