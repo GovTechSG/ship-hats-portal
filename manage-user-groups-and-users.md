@@ -20,7 +20,7 @@
 [Remove user groups from a project tool]()-->
 
 
-### Related topics
+## Related topics
 
 - [Manage users](manage-users)
 - [Manage user groups](manage-user-groups)
