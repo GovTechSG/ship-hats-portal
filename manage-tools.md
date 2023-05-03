@@ -58,7 +58,7 @@ SA or PA can add the required project tools as explained below. You can add tool
     |**GitLab**|Make sure that at least 1 Project Admin has a GitLab account and is added to the TechPass group. Provide value in the **GitLab Group Name** field. <!--<br>If you cannot find your system in the drop-down list, follow the steps to [Declare a DGP System](declare-dgp-systems).-->
 <!--<br><br>![Add GitLab](./images/tool-gitlab-add-new.png)
     |**Nexus IQ**|Provide values in the **Application Name** and **Application ID** fields.|
-    |**Nexus Repo**|Submit a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11/) to add this tool.
+    |**Nexus Repo**|Submit a [service request](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request/) to add this tool.
     |**pCloudy**|The **Add New pCloudy Application** popup appears, displaying the allowed number of parallel shared mobile device tests.|
 
     |Available Tools (Add-ons)|Steps|

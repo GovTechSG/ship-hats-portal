@@ -21,7 +21,7 @@ As an SA/PA, you can create user groups based on quota specified for your projec
 
    The **Create New User Group** window appears.  
 
-   >**Note:** If you have consumed the quota available for user groups, the **Create Group** button is disabled. If you want to continue to add user groups beyond the available quota limit, [create a service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11).
+   >**Note:** If you have consumed the quota available for user groups, the **Create Group** button is disabled. If you want to continue to add user groups beyond the available quota limit, [create a service request](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request).
 
    ![Create group](./images/user-groups-create.png)
 

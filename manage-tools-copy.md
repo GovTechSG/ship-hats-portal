@@ -49,7 +49,7 @@ SA or PA can add the required project tools as explained below. You can add tool
     |Jira|<ol><li>Click **Add**.</li><li>Click the **Select Tool** drop-down list, and select **Jira**.</li><ol>|
     |Confluence|<ol><li>Click **Add**.</li><li>Click the **Select Tool** drop-down list, and select **Confluence**.</li><ol>|
     |Nexus IQ|<ol><li>Click **Add**.</li><li>Click the **Select Tool** drop-down list.</li><li> Enter values in the **Application Name** and **Application ID** fields.</li><ol>|
-    |Nexus Repo|<ol><li>Click **Add**.</li><li>Submit a [service request](https://jira.ship.gov.sg/servicedesk/customer/portal/11/) to add this tool.</li><ol>|
+    |Nexus Repo|<ol><li>Click **Add**.</li><li>Submit a [service request](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request/) to add this tool.</li><ol>|
     |pCloudy|<ol><li>Click **Add**.</li><li>Click the **Select Tool** drop-down list, and select **pCloudy Device Farm & HATS Browser Farm**.</li><ol>|
     |Prisma Cloud|<ol><li>Click **Add**.</li><li>Click the **Select Tool** drop-down list, and then select **Container Image Scanner**.</li><li>In the **Scanner type** field, select **Prisma Cloud**</li><li>In the **App Name** field, enter the required value. </li><ol>|
     |SonarQube - Community Edition|Make sure that you have logged in to [SonarQube](https://sonar.hats.stack.gov.sg/sonar) at least once.<ol><li>Click **Add**.</li><li>Click the **Select Tool** drop-down list.</li><li>In the **App Name** field, enter the required value.</li><ol>|
