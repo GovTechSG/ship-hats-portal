@@ -1,11 +1,6 @@
 # Manage Users
 
-**Topics**
 
-- [Onboard Users](#onboard-users)
-- [View users](#view-users)
-- [Generate user report](#generate-user-report)
-- [Offboard Users](#offboard-users)
 
 ## Onboard Users
 

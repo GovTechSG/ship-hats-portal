@@ -1,12 +1,6 @@
 # Access SHIP-HATS portal
 
 
-**Topics**
-- [Prerequisites](#prerequisites)
-- [Log in via TechPass](#log-in-via-techpass)
-<!--- [Log in with credentials](#log-in-with-credentials)-->
-- [View dashboard](#view-dashboard)
-- [Log out](#log-out)
 
 
 

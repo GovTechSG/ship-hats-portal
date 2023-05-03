@@ -1,15 +1,5 @@
 # Manage Account
 
-
-**Topics**
-- [Switch account](#switch-account)
-- [View plan details](#view-plan-details)
-- [View billing information](#view-billing-information)
-- [Modify billing information](#modify-billing-information)
-- [Update admin profile](#update-admin-profile)
-- [Off-board an account](#off-board-an-account)
-
-
 ## Switch account
 If you are a SA or PA for more than one subscription account in SHIP-HATS, you may need to switch between these accounts to:
 

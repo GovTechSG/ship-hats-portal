@@ -1,10 +1,6 @@
 # Manage applications
 
-**Topics**
 
-- [Add applications to a project tool](#add-applications-to-a-project-tool)
-- [Rename application](#rename-application)
-- [Remove applications from a project tool](#remove-applications-from-a-project-tool)
 
 
 

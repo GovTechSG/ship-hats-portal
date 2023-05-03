@@ -1,11 +1,6 @@
 # Manage user groups & users
 
-**Topics**
 
-- [Add/Remove user groups within a project tool](#add-user-groups-within-a-project-tool)
-- [Add/Remove users within a project tool](#add-users-within-a-project-tool)
-
-<!--- [Remove user groups from a project tool](#remove-user-groups-from-a-project-tool)-->
 
 ## Add/Remove user groups within a Project Tool
 

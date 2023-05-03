@@ -1,12 +1,6 @@
 # Users self help
 
-**Topics**
-- [Access user profile](#access-user-profile)
-- [Update user profile](#update-user-profile)
-- [Retrieve username](#retrieve-username)
-- [Reset 2FA](#reset-2fa)
-- [Change password](#change-password)
-- [Reset password](#reset-password)
+
 
 
 ## Access user profile

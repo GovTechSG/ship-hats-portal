@@ -1,11 +1,6 @@
 # Manage tools
 
-**Topics**
 
-- [Add project tools](#add-project-tools)
-- [Add project tool with customised project key](#add-project-tool-with-customised-project-key)
-- [View project tools](#view-project-tools)
-- [Remove project tools](#remove-project-tools)
 
 ## Add project tools
 

@@ -1,10 +1,6 @@
 # Manage tokens
 
-**Topics**
 
-- [View token](#view-token)
-- [Retrieve token](#retrieve-token)
-- [Refresh/Renew token](#refreshrenew-token)
 
 ## View Token
 

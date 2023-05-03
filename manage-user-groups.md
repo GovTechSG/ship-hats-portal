@@ -5,13 +5,7 @@ Using the user groups, as an SA or a PA, you can:
 - Assign tool's permissions to a group
 - Assign same permissions or roles to all users in a group
 
-**Topics**
 
-- [Create user groups](#create-user-groups)
-- [Access user groups](#access-user-groups)
-- [Add users to user groups](#add-users-to-user-groups)
-- [Remove user groups](#remove-user-groups)
-- [Remove users from user groups](#remove-users-from-user-groups)
 
 ## Create user groups
 

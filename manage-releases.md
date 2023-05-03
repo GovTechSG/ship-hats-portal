@@ -2,12 +2,6 @@
 
 ?> This feature is applicable only for FOD.
 
-**Topics**
-
-- [Add release](#add-release)
-- [Retrieve release](#retrieve-release)
-- [Rename release](#rename-release)
-- [Delete release](#delete-release)
 
 ## Add release
 

@@ -1,9 +1,6 @@
 # Manage Projects
 
-**Topics**
-- [Create new projects](#create-new-projects)
-- [View projects](#view-projects)
-- [Remove projects](#remove-projects)
+
 
 ## Create new projects
 

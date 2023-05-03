@@ -1,9 +1,6 @@
 # Manage Admins
 
-**Topics**
-- [Add project admins](#add-project-admins)
-- [View existing project admins](#view-existing-project-admins)
-- [Change subscription admin](#change-subscription-admin)
+
 
 ## Add project admins
 
