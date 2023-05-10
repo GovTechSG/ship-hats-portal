@@ -12,13 +12,13 @@ The following section contains the new features, enhancements, and changes relea
 
 [Pipeline COE](https://sgts.GitLab-dedicated.com/innersource/projects/sgts-pipelinecoe)* provides commonly used runner images and is available for use by tenants in the SHIP-HATS Templates.
  
-#### Key features
+**Key features**
 - Integration of container scanning in build pipeline to ensure all images in CR are scanned
 - Curated by deprecating versions with security vulnerabilities with regular clean ups and scans
 - Up to date & patched base images
  
 
-#### Action required
+**Action required**
 When tenants require an image to define for runners to use, they should look at the available ones in Pipeline COE:
 
 - Use the latest release (i.e. v.1.0.6) of SHIP-HATS Templates available

@@ -1,7 +1,7 @@
 **Overview**
   - [Home](./README.md)
   - [Overview](ship-hats-portal-overview)
-  - [What's New](./whats-new/what-s-new.md)
+  - [What's New](./whats-new/2023.md)  
   - [User roles and permissions](user-roles-and-permissions) 
 **Onboard and Access**  
   - [Onboard to portal](onboarding-to-portal)
