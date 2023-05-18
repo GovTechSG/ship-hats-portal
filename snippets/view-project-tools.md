@@ -15,3 +15,16 @@
 
     ![Project description](./images/project-description-all-tools.png)
 
+1. Click on the tool for which you want to view the details.  Following information is available based on the tool:
+
+    |Tool|Information Visible|
+    |---|---|
+    |**GitLab**|**Group** and **Subgroups/projects**. <br><br>You can view up to 3 levels of subgroups/projects only. To view complete list, navigate to your GitLab project in [GitLab](https://sgts.gitlab-dedicated.com/).
+    |**Jira**|**Applications** 
+    |**Confluence**|**Applications** 
+    |**Nexus IQ**|**Applications**, **Tokens**, **Users**, and **User Groups**.
+    |**Nexus Repo**|**Name** and **Type** for each of the Repo|
+    |**Fortify on Demand**|**Applications**, **Tokens**, **Users**, and **Release**.
+    |**SonarQube**|**Applications**, **Tokens**, **Users**, and **User Groups**.
+    |**pCloudy**|**Token**|
+

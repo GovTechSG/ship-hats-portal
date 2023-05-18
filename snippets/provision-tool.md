@@ -22,7 +22,7 @@ Subscription Admin (SA) and Project Admin (PA) can add the required project tool
     |---|---|
     |**GitLab**|Make sure that at least 1 Project Admin has a GitLab account and is added to the TechPass group. Provide value in the **GitLab Group Name** field. <!--<br>If you cannot find your system in the drop-down list, follow the steps to [Declare a DGP System](declare-dgp-systems).--> <br><br>![Add GitLab](./images/tool-gitlab-add-new.png)
     |**Nexus IQ**|Provide values in the **Application Name** and **Application ID** fields.|
-    |**Nexus Repo**|Submit a [service request](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request/) to add this tool.
+    |**Nexus Repo**|[Raise a request](https://docs.developer.tech.gov.sg/docs/ship-hats-support/raise-service-request/) to add this tool.
     |**pCloudy**|The **Add New pCloudy Application** popup appears, displaying the allowed number of parallel shared mobile device tests.|
 
     |Available Tools (Add-ons)|Steps|
@@ -33,7 +33,7 @@ Subscription Admin (SA) and Project Admin (PA) can add the required project tool
     |**Prisma Cloud**|Make sure that you have subscribed to this product via the TechBiz portal for it to be listed in **Subscribed Tools**. Provide value in the **App name** field.|
     |**SonarQube**|Make sure that you have subscribed to this product via the TechBiz portal for it to be listed in **Subscribed Tools**. Make sure that you have logged in to [SonarQube Community Edition](https://sonar.hats.stack.gov.sg/sonar) or [SonarQube Developer Edition](https://sonar1.hats.stack.gov.sg/sonar) at least once. provide values in the **Application Type** and **App Name** fields.<br><br>![](./images/tool-sonarqube-add-new.png)
 
-    >**Note:** After you reach the quota, the respective tool name(s) will be disabled in the **Select Tool** drop-down list. If you still want to add these tools, send an email to [enquiries_ENP@tech.gov.sg](enquiries_ENP@tech.gov.sg).    
+    >**Note:** After you reach the quota, the respective tool name(s) will be disabled. If you still want to add these tools, send an email to [enquiries_ENP@tech.gov.sg](enquiries_ENP@tech.gov.sg).    
 
 1. Click **Add**.   
     

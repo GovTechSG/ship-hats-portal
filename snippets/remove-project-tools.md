@@ -9,6 +9,8 @@ You can remove the following tools:
 - Nexus IQ
 - SonarQube
 
+### Backup 
+
 **To take backup of a project tool**
 
 As a Project Admin (PA), you can use the information in the following table based on your requirement:
@@ -20,6 +22,8 @@ As a Project Admin (PA), you can use the information in the following table base
 **GitLab**|Clone Repos and Pipelines|
 **Nexus IQ**|Download the required reports
 **Nexus Repo**|Download the required artifacts
+
+### Remove
 
 **To remove a project tool**
 

@@ -32,12 +32,19 @@ You can manage users for the following tools:
 
     The roles or permissions are updated in the portal as well as respective tools.
 
-1. If you want to manage users for **Fortify on Demand**, within the **Manage Users** tab:   
-    - To **Manage user access**, select values in the **User(s)** field.  
+1. If you want to manage users for **Fortify on Demand**:   
+    
+    **To Manage user access**: 
+    1. Select the **Manage User Access** tab.
+    1. Select values in the **User(s)** field.
+    1. Click **Update**.
     
        >**Note:** Users will appear here only if they were added in the [TechBiz portal](https://portal.techbiz.suite.gov.sg/).
 
-    - To **Manage user role**, select values in the **User** and **Role** fields. 
+    **To Manage user role**:
+    1. Select the **Manage User Role** tab.
+    1. Select values in the **User** and **Role** fields.
+    1. Click **Update**.
     
     The roles or permissions are updated in the portal as well as respective tools.
 
