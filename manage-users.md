@@ -61,6 +61,7 @@ Subscription Admin (SA) and Project Admin (PA) can view all users associated wit
 You can generate a report to view all details for the active and removed users.
 
 **To generate a user report**
+
 1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).   
    
    >**Tip:** Make sure that you are in the required account. If needed, [Switch account](manage-account).
@@ -75,7 +76,7 @@ You can generate a report to view all details for the active and removed users.
 
    |Field|Description|
    |---|---|
-   **Username**|Indicates the username for the user.
+   **Username**|Indicates the username for the user. Users that are part of current subscription will appear based on users added to subscription via the TechBiz portal. Users directly added to Tools will not appear in this report.
    **Name**|Indicates the full name of the user.
    **Email**|Indicates the email address of the user.
    **Subscription Admin**|Indicates whether the user is a Subscription Admin. 
