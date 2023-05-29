@@ -14,7 +14,7 @@ For more information, refer to the [TechBiz documentation](https://docs.develope
 
 ## View users
 
-Subscription Admin (SA) and Project Admin (PA) can view all users associated with a subscription account and their roles in their account if the users were added in the [TechBiz portal](https://portal.techbiz.suite.gov.sg/).
+Subscription Admin (SA) and Project Admin (PA) can view all users associated with a subscription account and their roles in their account if the users were added in the [TechBiz portal](https://portal.techbiz.suite.gov.sg/). The users directly added via Tools will not appear here.
 
 **To view users**
 
