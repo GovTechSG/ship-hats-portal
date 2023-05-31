@@ -24,6 +24,9 @@ You can manage user groups and permissions/roles for the following tools:
 1. Click the tool for which you want to manage/add user groups, and then click the **Manage User Groups** tab.
 
 1. In the **User Group** drop-down, select the required group. 
+
+    > **Note:** For SonarQube, in the **Application Name(s) (optional)** field, you can select application (s) to assign multiple applications to the selected user group. This step is optional. 
+
 1. In **Select Role/Permission**, select the required role or permission, and then click **Update**. 
 
     The roles or permissions are updated in the portal as well as respective tools. Any permissions assigned via portal will override the previously assigned permissions in the tool.

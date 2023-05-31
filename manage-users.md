@@ -14,7 +14,7 @@ For more information, refer to the [TechBiz documentation](https://docs.develope
 
 ## View users
 
-Subscription Admin (SA) and Project Admin (PA) can view all users associated with a subscription account and their roles in their account if the users were added in the [TechBiz portal](https://portal.techbiz.suite.gov.sg/).
+Subscription Admin (SA) and Project Admin (PA) can view all users associated with a subscription account and their roles in their account if the users were added in the [TechBiz portal](https://portal.techbiz.suite.gov.sg/). 
 
 **To view users**
 
@@ -56,11 +56,18 @@ Subscription Admin (SA) and Project Admin (PA) can view all users associated wit
 
     - **Download:** If you want to download the user list as a .csv file to your local machine, click **Export CSV**. This csv lists the active and removed users along with the approval and removal details. For more details, refer to the [Generate User Report](#generate-user-report) documentation.
 
+## Add users
+
+Subscription Admin (SA) and Project Admin (PA) can add users associated with a subscription account via the [TechBiz portal](https://portal.techbiz.suite.gov.sg/). However, you cannot add the same user to more than one subscription account to ensure that agencies are not charged more than once for the same user. 
+
+If you want to provide access to users from different subscriptions across projects, you can do so via individual SHIP-HATS tools.
+
 
 ## Generate user report
 You can generate a report to view all details for the active and removed users.
 
 **To generate a user report**
+
 1. Log in to the [SHIP-HATS portal](https://portal.ship.gov.sg/).   
    
    >**Tip:** Make sure that you are in the required account. If needed, [Switch account](manage-account).
@@ -75,7 +82,7 @@ You can generate a report to view all details for the active and removed users.
 
    |Field|Description|
    |---|---|
-   **Username**|Indicates the username for the user.
+   **Username**|Indicates the username for the user. Users that are part of current subscription will appear based on users added to subscription via the TechBiz portal. Users directly added to Tools will not appear in this report.
    **Name**|Indicates the full name of the user.
    **Email**|Indicates the email address of the user.
    **Subscription Admin**|Indicates whether the user is a Subscription Admin. 
