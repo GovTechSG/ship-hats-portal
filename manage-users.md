@@ -56,12 +56,12 @@ Subscription Admin (SA) and Project Admin (PA) can view all users associated wit
 
     - **Download:** If you want to download the user list as a .csv file to your local machine, click **Export CSV**. This csv lists the active and removed users along with the approval and removal details. For more details, refer to the [Generate User Report](#generate-user-report) documentation.
 
-## Add users
+<!--## Add users
 
 Subscription Admin (SA) and Project Admin (PA) can add users associated with a subscription account via the [TechBiz portal](https://portal.techbiz.suite.gov.sg/). However, you cannot add the same user to more than one subscription account to ensure that agencies are not charged more than once for the same user. 
 
 If you want to provide access to users from different subscriptions across projects, you can do so via individual SHIP-HATS tools.
-
+-->
 
 ## Generate user report
 You can generate a report to view all details for the active and removed users.
