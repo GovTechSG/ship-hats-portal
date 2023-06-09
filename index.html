@@ -19,6 +19,15 @@
       rel="stylesheet" 
       href="https://unpkg.com/@developerportalsg/docsify-plugin-toc@latest/dist/light.css"
     />
+    <link 
+      rel="stylesheet" 
+      href="https://unpkg.com/@developerportalsg/docsify-accordion-plugin@latest/dist/accordion.css" />
+    <link 
+      rel="stylesheet" 
+      href="https://cdn.jsdelivr.net/npm/@govtechsg/sgds@1.4.0/css/sgds.css" />
+    <link 
+      rel="stylesheet" 
+      href="//cdn.jsdelivr.net/npm/@sg-developer-portal/doc-theme-default@0.0.13/public/dist/doc.css">  
   </head>
   <body>
     <div id="app"></div>
@@ -35,11 +44,13 @@
         name: "SHIP-HATS Portal", // Must configure when publishing
         hideSidebar: false, // Configurable when publishing
         basePath: "", // Configurable when publishing
-        homepage: "", // Configurable when publishing
+        homepage: "README.md", // Configurable when publishing
         el: "#app",
+        useSGDSAccordion: true,
+        enableSidebarCollapse: true,
         auto2top: true,
         loadSidebar: true,
-        subMaxLevel: 1, // For automatic 2nd level headings
+        subMaxLevel: 0, 
         themeColor: "#0076d6",
         markdown: {
           renderer: {
@@ -70,5 +81,8 @@
     <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-tabs/dist/docsify-tabs.min.js"></script>
     <script src="https://unpkg.com/@developerportalsg/docsify-plugin-toc@latest/dist/docsify-plugin-toc.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/@lx0f/docsify-sidebar-collapse@latest/dist/docsify-sidebar-collapse.bundle.js"></script>
+    <script src="https://unpkg.com/@developerportalsg/docsify-accordion-plugin@latest/dist/docsify-plugin-accordion.min.js"></script>
+
   </body>
 </html>

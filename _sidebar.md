@@ -1,28 +1,26 @@
-**Overview**
+- **Overview**
   - [Home](./README.md)
   - [Overview](ship-hats-portal-overview)
   - [What's New](./whats-new/2023.md)  
   - [User roles and permissions](user-roles-and-permissions) 
-**Onboard and Access**  
+- **Onboard and Access**  
   - [Onboard to portal](onboarding-to-portal)
   - [Access portal](access-ship-hats-portal)  
-**Users**  
+- **Users**  
   - [Manage users](manage-users)
   - [Manage user groups](manage-user-groups)
   - [Users self help](users-self-help)  
-**Projects**
+- **Projects**
   - [Manage projects](manage-projects)
   - [Manage admins](manage-admins)
-**Project Tools & Applications**
+- **Project Tools & Applications**
   - [Manage tools](manage-tools)
   - [Manage applications](manage-applications)
   - [Manage user groups & users](manage-user-groups-and-users)
   - [Manage tokens](manage-tokens)
   - [Manage releases](manage-releases)
-**Accounts**  
+- **Accounts**  
   - [Manage accounts](manage-account)  
-
-&nbsp;
 
 ---
 
