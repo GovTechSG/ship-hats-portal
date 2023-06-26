@@ -20,7 +20,9 @@
   - [Manage tokens](manage-tokens)
   - [Manage releases](manage-releases)
 - **Accounts**  
-  - [Manage accounts](manage-account)  
+  - [Manage accounts](manage-account) 
+- **Audit Logs**
+  - [View audit logs](view-audit-logs)   
 
 ---
 
