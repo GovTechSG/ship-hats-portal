@@ -22,7 +22,7 @@
 - **Accounts**  
   - [Manage accounts](manage-account) 
 - **Audit Logs**
-  - [View audit logs](view-audit-logs)   
+  - [View audit logs](./audit-logs.md)   
 
 ---
 
