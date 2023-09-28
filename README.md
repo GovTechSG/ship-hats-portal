@@ -1,6 +1,6 @@
 # SHIP-HATS Portal Documentation
 
-This documentation has moved to [SHIP-HATS Docs](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/portal/ship-hats-portal-overview).
+This documentation has moved to [SHIP-HATS Docs](https://go.gov.sg/ship-hats-getting-started).
 
 <!--Visit https://go.gov.sg/ship-hats-docs for all SHIP-HATS documentation
 
