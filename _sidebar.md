@@ -1,3 +1,6 @@
+
+<!--
+
 <p><span style="color:red;">This document is obsolete. Refer here for latest content <u>https://go.gov.sg/ship-hats-portal</u></span></p>
 <br>
 
